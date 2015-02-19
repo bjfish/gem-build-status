@@ -144,9 +144,9 @@ $( document ).ready(function() {
                cellId += "other";
              }
              var html = ""           
-             if(result == 0){
+             if(result == 0 && state === "finished"){
                html += "<span style='color:green;'>&#10004;</span>&nbsp;("+ version +")<br/>";
-             } else if (result != 0){
+             } else if (result != 0 && state === "finished"){
                html += "<span style='color:red;'>&#10008;</span>&nbsp;("+ version +")<br/>";
              } else {
                html += state + "&nbsp;("+ version +")<br/>";

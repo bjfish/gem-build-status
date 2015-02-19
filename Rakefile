@@ -13,6 +13,9 @@ task :process do
   puts "Hello"
   data = CSV.read("report_data.csv")
   limit = 500
+  overrides = { 
+     "thor" => {  :repo => "erikhuda/thor"  } # links in rubygems redirected  
+  }
   if limit
     data = data.first(limit)
   end
@@ -22,14 +25,21 @@ task :process do
     info = Gems.info( gem )
     repo = parse_info( info )
     gemurl = info["homepage_uri"] || info["source_code_uri"] || ""
+    geminfo = { :repo => repo, :gem => gem, :gemurl => gemurl }
+    if overrides.include?( gem )
+       geminfo.merge!( overrides[gem] )
+    end   
     unless repo.nil?
-      write_file( gem, repo, gemurl)
-      puts repo
+      write_file( geminfo)
+      puts geminfo[:repo]
     end  
   end
 end
 
-def write_file( gem, repo, gemurl)
+def write_file( geminfo )
+gem = geminfo[:gem]
+repo = geminfo[:repo]
+gemurl = geminfo[:gemurl]
 template = %{---
 layout: post
 title:  "#{gem}"

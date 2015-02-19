@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "thor"
-repo:   "wycats/thor"
+repo:   "erikhuda/thor"
 date:   2015-02-18 10:46:51
 gemurl: http://whatisthor.com/
 ---
