@@ -8,6 +8,27 @@ layout: default
   </header>
 
   <article class="post-content">
+  <style>
+table, th, td {
+    border: 1px solid black;
+}
+</style>
+<table>
+<th>Gem</th><th>1.8</th><th>1.9</th><th>2.0</th><th>2.1</th><th>2.2</th><th>ruby-head</th><th>jruby</th><th>rbx</th><th>other</th>
+  <tr class="gem-row" id="{{ post.title }}" data-repo="{{ post.repo }}">
+    <td><a href="{{ post.url }}">{{ post.title }}</a></td>
+    <td id="{{ post.title }}-18"></td>
+    <td id="{{ post.title }}-19"></td>
+    <td id="{{ post.title }}-20"></td>
+    <td id="{{ post.title }}-21"></td>
+    <td id="{{ post.title }}-22"></td>
+    <td id="{{ post.title }}-ruby-head"></td>
+    <td id="{{ post.title }}-jruby"></td>
+    <td id="{{ post.title }}-rbx"></td>
+     <td id="{{ post.title }}-other"></td>
+     <td><a href="https://travis-ci.org/{{ post.repo }}" target="_blank">build</a></td>
+  </tr>
+</table>
     {{ content }}
   </article>
 

@@ -7,10 +7,43 @@ layout: default
   <h1 class="page-heading">Gems</h1>
 
 <!-- This loops through the paginated posts -->
+<style>
+table, th, td {
+    border: 1px solid black;
+}
+</style>
+
+<!-- Pagination links -->
+<div class="pagination">
+  {% if paginator.previous_page %}
+    <a href="{{ paginator.previous_page_path }}" class="previous">Previous</a>
+  {% else %}
+    <span class="previous">Previous</span>
+  {% endif %}
+  <span class="page_number ">Page: {{ paginator.page }} of {{ paginator.total_pages }}</span>
+  {% if paginator.next_page %}
+    <a href="{{ paginator.next_page_path }}" class="next">Next</a>
+  {% else %}
+    <span class="next ">Next</span>
+  {% endif %}
+</div>
+
 <table>
+<th>Gem</th><th>1.8</th><th>1.9</th><th>2.0</th><th>2.1</th><th>2.2</th><th>ruby-head</th><th>jruby</th><th>rbx</th><th>other</th><th>link</th>
 {% for post in paginator.posts %}
-  <tr><td><a href="{{ post.url }}">{{ post.title }}</a></td><td>
-  <a href="https://travis-ci.org/{{ post.repo }}"><img src="https://rbx-badge-dash-2.herokuapp.com/repos/{{ post.repo }}/branches/master"/></a></td></tr>
+  <tr class="gem-row" id="{{ post.title }}" data-repo="{{ post.repo }}">
+    <td><a href="{{ post.url }}">{{ post.title }}</a></td>
+    <td id="{{ post.title }}-18"></td>
+    <td id="{{ post.title }}-19"></td>
+    <td id="{{ post.title }}-20"></td>
+    <td id="{{ post.title }}-21"></td>
+    <td id="{{ post.title }}-22"></td>
+    <td id="{{ post.title }}-ruby-head"></td>
+    <td id="{{ post.title }}-jruby"></td>
+    <td id="{{ post.title }}-rbx"></td>
+     <td id="{{ post.title }}-other"></td>
+     <td><a href="https://travis-ci.org/{{ post.repo }}" target="_blank">build</a></td>
+  </tr>
 {% endfor %}
 </table>
 
@@ -30,3 +63,81 @@ layout: default
 </div>
 
 </div>
+<script>
+$( document ).ready(function() {
+    $( ".gem-row" ).each(function( index ) {
+       var row = $(this);
+       var gemId = row.attr('id');
+       var repo= row.data("repo");
+       var branchUrl = "https://api.travis-ci.org/repos/" + repo + "/branches/master"; 
+       $.ajax({ 
+       type: "GET",
+       accept: "application/vnd.travis-ci.2+json",
+       url: branchUrl 
+       })
+    //  .done(function(data) {
+     //    var buildId = data.branch.id;
+     //    var buildUrl = "https://api.travis-ci.org/builds/" + buildId;    
+     //    $.ajax({
+      //    type: "GET",
+      //    url: buildUrl,
+      //    accept: "application/vnd.travis-ci.2+json"
+      //  })
+       .done(  function( data ) {
+          var jobs = data.branch.job_ids;
+          if ( typeof jobs !== 'undefined' ){
+             jobs.forEach(function(jobId) {
+               var jobUrl = "https://api.travis-ci.org/jobs/" + jobId;
+             $.ajax({
+               type: "GET",
+               url: jobUrl,
+                accept: "application/vnd.travis-ci.2+json"
+             }).done ( function(job) {
+            // var job = jobData.job;
+             var state = job.state;
+              var result = job.result;
+             var version = job.config.rvm.toString();
+             var cellId = "#" + gemId + "-";
+             if( version.indexOf("1.8") == 0 || version.indexOf("ruby-1.8") == 0) {
+               cellId += "18";
+             } else if( version.indexOf("1.9") == 0 || version.indexOf("ruby-1.9") == 0) {
+               cellId += "19";
+             } else if( version.indexOf("2.0") == 0 || version.indexOf("ruby-2.0") == 0) {
+               cellId += "20";
+             } else if( version.indexOf("2.1") == 0 || version.indexOf("ruby-2.1") == 0) {
+               cellId += "21";
+             } else if( version.indexOf("2.2") == 0 || version.indexOf("ruby-2.2") == 0) {
+               cellId += "22";
+             } else if( version.indexOf("ruby-head") == 0) {
+               cellId += "ruby-head";
+             } else if( version.indexOf("jruby") == 0) {
+               cellId += "jruby";
+             } else if( version.indexOf("rbx") == 0) {
+               cellId += "rbx";
+             } else {
+               cellId += "other";
+             }
+             var html = ""           
+             if(result == 0){
+               html += "<span style='color:green;'>&#10004;</span>&nbsp;("+ version +")<br/>";
+             } else if (result != 0){
+               html += "<span style='color:red;'>&#10008;</span>&nbsp;("+ version +")<br/>";
+             } else {
+               html += state + "&nbsp;("+ version +")<br/>";
+             }
+             $(cellId).append( html );
+             }).fail(function( err ) {
+                console.log( "error" );
+             });
+           }); // end for each
+          } // end if
+    //   }).fail(function( err ) {
+  //       console.log( "error" );
+  //     });
+     })
+     .fail(function( err ) {
+       console.log( "error" );
+     })
+     });
+});
+</script>
