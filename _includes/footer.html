@@ -14,7 +14,7 @@
       <div class="footer-col  footer-col-2">
         <ul class="social-media-list">
           <li>
-            <a href="https://github.com/bjfish/rubinius-gem-build-status">
+            <a href="https://github.com/bjfish{{ site.baseurl }}">
                <span class="username">rubinius-gem-build-status</span>
             </a>
           </li>
@@ -30,3 +30,14 @@
   </div>
 
 </footer>
+<script src="{{ site.baseurl }}js/search.min.js" type="text/javascript" charset="utf-8"></script>
+<script>
+$( document ).ready(function() {
+    $('#search-query').lunrSearch({
+      indexUrl: '{{ site.baseurl }}js/index.json',   // Url for the .json file containing search index data
+      results : '#search-results',  // selector for containing search results element
+      entries : '.entries',         // selector for search entries containing element (contained within results above)
+      template: '#search-results-template'  // selector for Mustache.js template
+    });
+});
+</script>
