@@ -16,13 +16,13 @@ table, th, td {
 <!-- Pagination links -->
 <div class="pagination">
   {% if paginator.previous_page %}
-    <a href="{{ paginator.previous_page_path }}" class="previous">Previous</a>
+    <a href="/rubinius-gem-build-status{{ paginator.previous_page_path }}" class="previous">Previous</a>
   {% else %}
     <span class="previous">Previous</span>
   {% endif %}
   <span class="page_number ">Page: {{ paginator.page }} of {{ paginator.total_pages }}</span>
   {% if paginator.next_page %}
-    <a href="{{ paginator.next_page_path }}" class="next">Next</a>
+    <a href="/rubinius-gem-build-status{{ paginator.next_page_path }}" class="next">Next</a>
   {% else %}
     <span class="next ">Next</span>
   {% endif %}
@@ -32,7 +32,7 @@ table, th, td {
 <th>Gem</th><th>1.8</th><th>1.9</th><th>2.0</th><th>2.1</th><th>2.2</th><th>ruby-head</th><th>jruby</th><th>rbx</th><th>other</th><th>build</th><th>gem</th>
 {% for post in paginator.posts %}
   <tr class="gem-row" id="{{ post.title }}" data-repo="{{ post.repo }}">
-    <td><a href="{{ post.url }}">{{ post.title }}</a></td>
+    <td><a href="/rubinius-gem-build-status{{ post.url }}">{{ post.title }}</a></td>
     <td id="{{ post.title }}-18"></td>
     <td id="{{ post.title }}-19"></td>
     <td id="{{ post.title }}-20"></td>
@@ -51,13 +51,13 @@ table, th, td {
 <!-- Pagination links -->
 <div class="pagination">
   {% if paginator.previous_page %}
-    <a href="{{ paginator.previous_page_path }}" class="previous">Previous</a>
+    <a href="/rubinius-gem-build-status{{ paginator.previous_page_path }}" class="previous">Previous</a>
   {% else %}
     <span class="previous">Previous</span>
   {% endif %}
   <span class="page_number ">Page: {{ paginator.page }} of {{ paginator.total_pages }}</span>
   {% if paginator.next_page %}
-    <a href="{{ paginator.next_page_path }}" class="next">Next</a>
+    <a href="/rubinius-gem-build-status{{ paginator.next_page_path }}" class="next">Next</a>
   {% else %}
     <span class="next ">Next</span>
   {% endif %}
