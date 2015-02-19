@@ -1,0 +1,32 @@
+---
+layout: default
+---
+
+<div class="home">
+
+  <h1 class="page-heading">Gems</h1>
+
+<!-- This loops through the paginated posts -->
+<table>
+{% for post in paginator.posts %}
+  <tr><td><a href="{{ post.url }}">{{ post.title }}</a></td><td>
+  <a href="https://travis-ci.org/{{ post.repo }}"><img src="https://rbx-badge-dash-2.herokuapp.com/repos/{{ post.repo }}/branches/master"/></a></td></tr>
+{% endfor %}
+</table>
+
+<!-- Pagination links -->
+<div class="pagination">
+  {% if paginator.previous_page %}
+    <a href="{{ paginator.previous_page_path }}" class="previous">Previous</a>
+  {% else %}
+    <span class="previous">Previous</span>
+  {% endif %}
+  <span class="page_number ">Page: {{ paginator.page }} of {{ paginator.total_pages }}</span>
+  {% if paginator.next_page %}
+    <a href="{{ paginator.next_page_path }}" class="next">Next</a>
+  {% else %}
+    <span class="next ">Next</span>
+  {% endif %}
+</div>
+
+</div>
