@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "pry-rails"
+repo:   "rweng/pry-rails"
+date:   2015-02-18 10:45:23
+gemurl: https://github.com/rweng/pry-rails
+---

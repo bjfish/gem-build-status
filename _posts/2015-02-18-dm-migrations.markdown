@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "dm-migrations"
+repo:   "datamapper/dm-migrations"
+date:   2015-02-18 10:44:02
+gemurl: http://github.com/datamapper/dm-migrations
+---

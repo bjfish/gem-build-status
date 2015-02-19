@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "facter"
+repo:   "puppetlabs/facter"
+date:   2015-02-18 10:45:20
+gemurl: https://github.com/puppetlabs/facter
+---

@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "fakeweb"
+repo:   "chrisk/fakeweb"
+date:   2015-02-18 10:44:26
+gemurl: http://github.com/chrisk/fakeweb
+---

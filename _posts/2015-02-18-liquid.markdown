@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "liquid"
+repo:   "Shopify/liquid"
+date:   2015-02-18 10:45:16
+gemurl: http://www.liquidmarkup.org
+---

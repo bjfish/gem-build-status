@@ -2,5 +2,6 @@
 layout: post
 title:  "i18n"
 repo:   "svenfuchs/i18n"
-date:   2015-02-18 17:37:46
+date:   2015-02-18 10:46:53
+gemurl: http://github.com/svenfuchs/i18n
 ---

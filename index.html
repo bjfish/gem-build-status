@@ -29,7 +29,7 @@ table, th, td {
 </div>
 
 <table>
-<th>Gem</th><th>1.8</th><th>1.9</th><th>2.0</th><th>2.1</th><th>2.2</th><th>ruby-head</th><th>jruby</th><th>rbx</th><th>other</th><th>link</th>
+<th>Gem</th><th>1.8</th><th>1.9</th><th>2.0</th><th>2.1</th><th>2.2</th><th>ruby-head</th><th>jruby</th><th>rbx</th><th>other</th><th>build</th><th>gem</th>
 {% for post in paginator.posts %}
   <tr class="gem-row" id="{{ post.title }}" data-repo="{{ post.repo }}">
     <td><a href="{{ post.url }}">{{ post.title }}</a></td>
@@ -43,6 +43,7 @@ table, th, td {
     <td id="{{ post.title }}-rbx"></td>
      <td id="{{ post.title }}-other"></td>
      <td><a href="https://travis-ci.org/{{ post.repo }}" target="_blank">build</a></td>
+     <td><a href="{{ post.gemurl }}" target="_blank">gem</a></td>
   </tr>
 {% endfor %}
 </table>

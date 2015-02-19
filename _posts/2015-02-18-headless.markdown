@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "headless"
+repo:   "leonid-shevtsov/headless"
+date:   2015-02-18 10:43:44
+gemurl: http://leonid.shevtsov.me/en/headless
+---

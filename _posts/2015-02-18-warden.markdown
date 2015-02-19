@@ -2,5 +2,6 @@
 layout: post
 title:  "warden"
 repo:   "hassox/warden"
-date:   2015-02-18 17:37:07
+date:   2015-02-18 10:46:21
+gemurl: http://github.com/hassox/warden
 ---

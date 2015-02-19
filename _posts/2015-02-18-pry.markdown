@@ -2,5 +2,6 @@
 layout: post
 title:  "pry"
 repo:   "pry/pry"
-date:   2015-02-18 17:37:13
+date:   2015-02-18 10:46:27
+gemurl: http://pryrepl.org
 ---

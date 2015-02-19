@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "rgeo"
+repo:   "rgeo/rgeo"
+date:   2015-02-18 10:43:48
+gemurl: http://dazuma.github.com/rgeo
+---

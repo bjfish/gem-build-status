@@ -2,5 +2,6 @@
 layout: post
 title:  "atomic"
 repo:   "ruby-concurrency/ruby-atomic"
-date:   2015-02-18 17:37:25
+date:   2015-02-18 10:46:35
+gemurl: http://github.com/ruby-concurrency/ruby-atomic
 ---

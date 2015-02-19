@@ -2,5 +2,6 @@
 layout: post
 title:  "ffi"
 repo:   "ffi/ffi"
-date:   2015-02-18 17:37:32
+date:   2015-02-18 10:46:40
+gemurl: http://wiki.github.com/ffi/ffi
 ---

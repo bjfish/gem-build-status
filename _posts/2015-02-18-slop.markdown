@@ -2,5 +2,6 @@
 layout: post
 title:  "slop"
 repo:   "leejarvis/slop"
-date:   2015-02-18 17:37:17
+date:   2015-02-18 10:46:29
+gemurl: http://github.com/leejarvis/slop
 ---

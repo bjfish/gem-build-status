@@ -2,5 +2,6 @@
 layout: post
 title:  "hashie"
 repo:   "intridea/hashie"
-date:   2015-02-18 17:37:05
+date:   2015-02-18 10:46:19
+gemurl: https://github.com/intridea/hashie
 ---

@@ -2,5 +2,6 @@
 layout: post
 title:  "sinatra"
 repo:   "sinatra/sinatra"
-date:   2015-02-18 17:37:27
+date:   2015-02-18 10:46:37
+gemurl: http://www.sinatrarb.com/
 ---

@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "ref"
+repo:   "bdurand/ref"
+date:   2015-02-18 10:46:14
+gemurl: http://github.com/bdurand/ref
+---

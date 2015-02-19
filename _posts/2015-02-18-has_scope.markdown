@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "has_scope"
+repo:   "plataformatec/has_scope"
+date:   2015-02-18 10:45:25
+gemurl: http://github.com/plataformatec/has_scope
+---

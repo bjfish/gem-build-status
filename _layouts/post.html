@@ -16,7 +16,7 @@ table, th, td {
 }
 </style>
 <table>
-<th>Gem</th><th>1.8</th><th>1.9</th><th>2.0</th><th>2.1</th><th>2.2</th><th>ruby-head</th><th>jruby</th><th>rbx</th><th>other</th><th>link</th>
+<th>Gem</th><th>1.8</th><th>1.9</th><th>2.0</th><th>2.1</th><th>2.2</th><th>ruby-head</th><th>jruby</th><th>rbx</th><th>other</th><th>build</th><th>gem</th>
   <tr class="gem-row" id="{{ page.title }}" data-repo="{{ page.repo }}">
     <td><a href="{{ page.url }}">{{ page.title }}</a></td>
     <td id="{{ page.title }}-18"></td>
@@ -29,6 +29,7 @@ table, th, td {
     <td id="{{ page.title }}-rbx"></td>
      <td id="{{ page.title }}-other"></td>
      <td><a href="https://travis-ci.org/{{ page.repo }}" target="_blank">build</a></td>
+         <td><a href="{{ page.gemurl }}" target="_blank">gem</a></td>
   </tr>
 </table>
   

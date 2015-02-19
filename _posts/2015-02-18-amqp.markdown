@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "amqp"
+repo:   "ruby-amqp/amqp"
+date:   2015-02-18 10:43:52
+gemurl: http://rubyamqp.info
+---

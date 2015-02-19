@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "hashr"
+repo:   "svenfuchs/hashr"
+date:   2015-02-18 10:44:43
+gemurl: http://github.com/svenfuchs/hashr
+---

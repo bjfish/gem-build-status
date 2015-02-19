@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "httpi"
+repo:   "savonrb/httpi"
+date:   2015-02-18 10:45:42
+gemurl: http://github.com/savonrb/httpi
+---

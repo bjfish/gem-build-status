@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "figaro"
+repo:   "laserlemon/figaro"
+date:   2015-02-18 10:43:47
+gemurl: https://github.com/laserlemon/figaro
+---

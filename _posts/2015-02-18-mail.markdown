@@ -2,5 +2,6 @@
 layout: post
 title:  "mail"
 repo:   "mikel/mail"
-date:   2015-02-18 17:37:42
+date:   2015-02-18 10:46:49
+gemurl: https://github.com/mikel/mail
 ---

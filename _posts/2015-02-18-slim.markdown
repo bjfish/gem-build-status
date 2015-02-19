@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "slim"
+repo:   "slim-template/slim"
+date:   2015-02-18 10:45:48
+gemurl: http://slim-lang.com/
+---

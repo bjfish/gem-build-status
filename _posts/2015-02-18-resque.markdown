@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "resque"
+repo:   "defunkt/resque"
+date:   2015-02-18 10:45:37
+gemurl: http://github.com/defunkt/resque
+---

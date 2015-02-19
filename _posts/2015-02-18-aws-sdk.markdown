@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "aws-sdk"
+repo:   "amazonwebservices/aws-sdk-for-ruby"
+date:   2015-02-18 10:46:13
+gemurl: http://aws.amazon.com/sdkforruby
+---

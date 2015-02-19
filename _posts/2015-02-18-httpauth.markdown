@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "httpauth"
+repo:   "Manfred/HTTPauth"
+date:   2015-02-18 10:46:00
+gemurl: https://github.com/Manfred/HTTPauth
+---

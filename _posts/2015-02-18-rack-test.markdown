@@ -2,5 +2,6 @@
 layout: post
 title:  "rack-test"
 repo:   "brynary/rack-test"
-date:   2015-02-18 17:37:41
+date:   2015-02-18 10:46:48
+gemurl: http://github.com/brynary/rack-test
 ---

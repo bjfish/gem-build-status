@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "virtus"
+repo:   "solnic/virtus"
+date:   2015-02-18 10:44:35
+gemurl: https://github.com/solnic/virtus
+---

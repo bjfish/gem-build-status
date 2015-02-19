@@ -2,5 +2,6 @@
 layout: post
 title:  "redis"
 repo:   "redis/redis-rb"
-date:   2015-02-18 17:37:12
+date:   2015-02-18 10:46:25
+gemurl: https://github.com/redis/redis-rb
 ---

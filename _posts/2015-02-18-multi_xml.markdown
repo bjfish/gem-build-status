@@ -2,5 +2,6 @@
 layout: post
 title:  "multi_xml"
 repo:   "sferik/multi_xml"
-date:   2015-02-18 17:37:18
+date:   2015-02-18 10:46:29
+gemurl: https://github.com/sferik/multi_xml
 ---

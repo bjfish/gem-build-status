@@ -2,5 +2,6 @@
 layout: post
 title:  "rake"
 repo:   "ruby/rake"
-date:   2015-02-18 17:37:48
+date:   2015-02-18 10:46:54
+gemurl: https://github.com/ruby/rake
 ---

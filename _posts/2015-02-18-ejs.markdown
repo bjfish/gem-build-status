@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "ejs"
+repo:   "sstephenson/ruby-ejs"
+date:   2015-02-18 10:44:23
+gemurl: https://github.com/sstephenson/ruby-ejs/
+---

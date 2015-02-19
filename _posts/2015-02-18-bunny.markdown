@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "bunny"
+repo:   "ruby-amqp/bunny"
+date:   2015-02-18 10:45:32
+gemurl: http://rubybunny.info
+---

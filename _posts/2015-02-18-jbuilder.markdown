@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "jbuilder"
+repo:   "rails/jbuilder"
+date:   2015-02-18 10:46:06
+gemurl: https://github.com/rails/jbuilder
+---

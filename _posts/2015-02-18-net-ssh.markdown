@@ -2,5 +2,6 @@
 layout: post
 title:  "net-ssh"
 repo:   "net-ssh/net-ssh"
-date:   2015-02-18 17:37:32
+date:   2015-02-18 10:46:41
+gemurl: https://github.com/net-ssh/net-ssh
 ---

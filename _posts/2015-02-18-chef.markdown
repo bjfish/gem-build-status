@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "chef"
+repo:   "opscode/chef"
+date:   2015-02-18 10:45:41
+gemurl: http://wiki.opscode.com/display/chef
+---

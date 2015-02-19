@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "choice"
+repo:   "defunkt/choice"
+date:   2015-02-18 10:43:55
+gemurl: http://www.github.com/defunkt/choice
+---

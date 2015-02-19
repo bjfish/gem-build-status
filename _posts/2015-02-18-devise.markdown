@@ -2,5 +2,6 @@
 layout: post
 title:  "devise"
 repo:   "plataformatec/devise"
-date:   2015-02-18 17:37:09
+date:   2015-02-18 10:46:22
+gemurl: https://github.com/plataformatec/devise
 ---

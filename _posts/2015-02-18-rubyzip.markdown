@@ -2,5 +2,6 @@
 layout: post
 title:  "rubyzip"
 repo:   "rubyzip/rubyzip"
-date:   2015-02-18 17:37:20
+date:   2015-02-18 10:46:31
+gemurl: http://github.com/rubyzip/rubyzip
 ---

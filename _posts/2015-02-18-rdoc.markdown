@@ -2,5 +2,6 @@
 layout: post
 title:  "rdoc"
 repo:   "rdoc/rdoc"
-date:   2015-02-18 17:37:37
+date:   2015-02-18 10:46:44
+gemurl: http://docs.seattlerb.org/rdoc
 ---

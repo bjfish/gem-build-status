@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "extlib"
+repo:   "datamapper/extlib"
+date:   2015-02-18 10:44:34
+gemurl: http://github.com/datamapper/extlib
+---

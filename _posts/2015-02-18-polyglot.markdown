@@ -2,5 +2,6 @@
 layout: post
 title:  "polyglot"
 repo:   "cjheath/polyglot"
-date:   2015-02-18 17:37:40
+date:   2015-02-18 10:46:47
+gemurl: http://github.com/cjheath/polyglot
 ---

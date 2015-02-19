@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "rvm"
+repo:   "wayneeseguin/rvm-gem"
+date:   2015-02-18 10:46:12
+gemurl: http://rvm.io/
+---

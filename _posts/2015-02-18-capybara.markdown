@@ -2,5 +2,6 @@
 layout: post
 title:  "capybara"
 repo:   "jnicklas/capybara"
-date:   2015-02-18 17:37:13
+date:   2015-02-18 10:46:26
+gemurl: http://github.com/jnicklas/capybara
 ---

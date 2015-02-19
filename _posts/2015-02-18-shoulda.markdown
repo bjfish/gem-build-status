@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "shoulda"
+repo:   "thoughtbot/shoulda"
+date:   2015-02-18 10:45:26
+gemurl: https://github.com/thoughtbot/shoulda
+---

@@ -2,5 +2,6 @@
 layout: post
 title:  "compass"
 repo:   "chriseppstein/compass"
-date:   2015-02-18 17:37:04
+date:   2015-02-18 10:46:17
+gemurl: http://compass-style.org
 ---

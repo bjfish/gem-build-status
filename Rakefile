@@ -12,7 +12,7 @@ task :process do
   # Output the data
   puts "Hello"
   data = CSV.read("report_data.csv")
-  limit = 100
+  limit = 500
   if limit
     data = data.first(limit)
   end
@@ -21,19 +21,21 @@ task :process do
     gem = row[0]
     info = Gems.info( gem )
     repo = parse_info( info )
+    gemurl = info["homepage_uri"] || info["source_code_uri"] || ""
     unless repo.nil?
-      write_file( gem, repo)
+      write_file( gem, repo, gemurl)
       puts repo
     end  
   end
 end
 
-def write_file( gem, repo)
+def write_file( gem, repo, gemurl)
 template = %{---
 layout: post
 title:  "#{gem}"
 repo:   "#{repo}"
 date:   2015-02-18 #{Time.new.strftime("%H:%M:%S")}
+gemurl: #{gemurl}
 ---}
 filename = "_posts/2015-02-18-" + gem + ".markdown"
 File.open(filename, "w") do |f|     

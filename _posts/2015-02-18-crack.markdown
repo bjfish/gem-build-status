@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "crack"
+repo:   "jnunemaker/crack"
+date:   2015-02-18 10:46:08
+gemurl: http://github.com/jnunemaker/crack
+---

@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "aasm"
+repo:   "aasm/aasm"
+date:   2015-02-18 10:44:38
+gemurl: https://github.com/aasm/aasm
+---

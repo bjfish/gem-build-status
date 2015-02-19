@@ -2,5 +2,6 @@
 layout: post
 title:  "libv8"
 repo:   "cowboyd/libv8"
-date:   2015-02-18 17:37:14
+date:   2015-02-18 10:46:28
+gemurl: http://github.com/cowboyd/libv8
 ---

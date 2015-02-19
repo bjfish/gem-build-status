@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "jsmin"
+repo:   "rgrove/jsmin"
+date:   2015-02-18 10:43:47
+gemurl: http://github.com/rgrove/jsmin/
+---

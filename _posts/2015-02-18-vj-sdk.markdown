@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "vj-sdk"
+repo:   "videojuicer/vj-sdk"
+date:   2015-02-18 10:44:44
+gemurl: http://github.com/videojuicer/vj-sdk
+---

@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "msgpack"
+repo:   "msgpack/msgpack-ruby"
+date:   2015-02-18 10:45:06
+gemurl: http://msgpack.org/
+---

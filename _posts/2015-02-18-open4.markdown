@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "open4"
+repo:   "ahoward/open4"
+date:   2015-02-18 10:45:30
+gemurl: https://github.com/ahoward/open4
+---

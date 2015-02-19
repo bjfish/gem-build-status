@@ -2,5 +2,6 @@
 layout: post
 title:  "faraday"
 repo:   "lostisland/faraday"
-date:   2015-02-18 17:37:18
+date:   2015-02-18 10:46:29
+gemurl: https://github.com/lostisland/faraday
 ---

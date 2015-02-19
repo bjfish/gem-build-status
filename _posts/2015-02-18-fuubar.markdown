@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "fuubar"
+repo:   "jeffkreeftmeijer/fuubar"
+date:   2015-02-18 10:44:09
+gemurl: https://github.com/jeffkreeftmeijer/fuubar
+---

@@ -2,5 +2,6 @@
 layout: post
 title:  "mini_portile"
 repo:   "flavorjones/mini_portile"
-date:   2015-02-18 17:37:19
+date:   2015-02-18 10:46:30
+gemurl: http://github.com/flavorjones/mini_portile
 ---

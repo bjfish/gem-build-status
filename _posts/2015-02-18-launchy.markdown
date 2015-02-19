@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "launchy"
+repo:   "copiousfreetime/launchy"
+date:   2015-02-18 10:46:14
+gemurl: http://github.com/copiousfreetime/launchy
+---

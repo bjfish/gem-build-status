@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "i18n-js"
+repo:   "fnando/i18n-js"
+date:   2015-02-18 10:43:46
+gemurl: http://rubygems.org/gems/i18n-js
+---

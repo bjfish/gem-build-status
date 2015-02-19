@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "mongoid"
+repo:   "mongoid/mongoid"
+date:   2015-02-18 10:44:55
+gemurl: http://mongoid.org
+---

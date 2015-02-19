@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "subexec"
+repo:   "nulayer/subexec"
+date:   2015-02-18 10:45:22
+gemurl: http://github.com/nulayer/subexec
+---

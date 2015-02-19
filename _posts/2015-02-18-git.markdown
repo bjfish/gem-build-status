@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "git"
+repo:   "schacon/ruby-git"
+date:   2015-02-18 10:44:04
+gemurl: http://github.com/schacon/ruby-git
+---

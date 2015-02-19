@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "kaminari"
+repo:   "amatsuda/kaminari"
+date:   2015-02-18 10:46:05
+gemurl: https://github.com/amatsuda/kaminari
+---

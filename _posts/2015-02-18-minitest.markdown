@@ -2,5 +2,6 @@
 layout: post
 title:  "minitest"
 repo:   "seattlerb/minitest"
-date:   2015-02-18 17:37:28
+date:   2015-02-18 10:46:37
+gemurl: https://github.com/seattlerb/minitest
 ---

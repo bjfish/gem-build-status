@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "oauth2"
+repo:   "intridea/oauth2"
+date:   2015-02-18 10:46:05
+gemurl: http://github.com/intridea/oauth2
+---

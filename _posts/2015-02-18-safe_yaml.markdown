@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "safe_yaml"
+repo:   "dtao/safe_yaml"
+date:   2015-02-18 10:45:57
+gemurl: https://github.com/dtao/safe_yaml
+---

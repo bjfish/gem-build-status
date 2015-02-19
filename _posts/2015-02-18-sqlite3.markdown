@@ -2,5 +2,6 @@
 layout: post
 title:  "sqlite3"
 repo:   "sparklemotion/sqlite3-ruby"
-date:   2015-02-18 17:37:11
+date:   2015-02-18 10:46:24
+gemurl: https://github.com/sparklemotion/sqlite3-ruby
 ---

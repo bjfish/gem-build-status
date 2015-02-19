@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "cancan"
+repo:   "ryanb/cancan"
+date:   2015-02-18 10:45:58
+gemurl: http://github.com/ryanb/cancan
+---

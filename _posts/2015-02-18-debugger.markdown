@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "debugger"
+repo:   "cldwalker/debugger"
+date:   2015-02-18 10:45:52
+gemurl: http://github.com/cldwalker/debugger
+---

@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "hiera"
+repo:   "puppetlabs/hiera"
+date:   2015-02-18 10:44:25
+gemurl: https://github.com/puppetlabs/hiera
+---

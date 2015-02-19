@@ -2,5 +2,6 @@
 layout: post
 title:  "rspec"
 repo:   "rspec/rspec"
-date:   2015-02-18 17:37:31
+date:   2015-02-18 10:46:39
+gemurl: http://github.com/rspec
 ---

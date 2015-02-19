@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "gherkin"
+repo:   "cucumber/gherkin"
+date:   2015-02-18 10:46:09
+gemurl: http://github.com/cucumber/gherkin
+---

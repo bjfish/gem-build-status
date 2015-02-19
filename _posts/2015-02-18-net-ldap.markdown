@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "net-ldap"
+repo:   "ruby-ldap/ruby-net-ldap"
+date:   2015-02-18 10:45:20
+gemurl: http://github.com/ruby-ldap/ruby-net-ldap
+---

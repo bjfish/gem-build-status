@@ -2,5 +2,6 @@
 layout: post
 title:  "uglifier"
 repo:   "lautis/uglifier"
-date:   2015-02-18 17:37:35
+date:   2015-02-18 10:46:43
+gemurl: http://github.com/lautis/uglifier
 ---

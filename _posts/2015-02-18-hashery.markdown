@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "hashery"
+repo:   "rubyworks/hashery"
+date:   2015-02-18 10:44:39
+gemurl: http://rubyworks.github.com/hashery
+---

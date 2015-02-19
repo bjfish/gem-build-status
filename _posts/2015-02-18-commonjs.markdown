@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "commonjs"
+repo:   "cowboyd/commonjs.rb"
+date:   2015-02-18 10:45:14
+gemurl: http://github.com/cowboyd/commonjs.rb
+---
