@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "ruby-oci8"
+repo:   "kubo/ruby-oci8"
+date:   2015-02-18 17:23:03
+gemurl: https://github.com/kubo/ruby-oci8/
+---

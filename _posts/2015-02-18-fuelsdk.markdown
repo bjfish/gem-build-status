@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "fuelsdk"
+repo:   "barberj/fuelsdk"
+date:   2015-02-18 17:14:36
+gemurl: https://code.exacttarget.com/sdks
+---

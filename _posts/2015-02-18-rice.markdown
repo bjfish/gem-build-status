@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "rice"
+repo:   "jasonroelofs/rice"
+date:   2015-02-18 17:14:53
+gemurl: https://github.com/jasonroelofs/rice
+---

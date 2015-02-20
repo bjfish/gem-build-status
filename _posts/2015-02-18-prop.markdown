@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "prop"
+repo:   "zendesk/prop"
+date:   2015-02-18 17:17:30
+gemurl: http://github.com/zendesk/prop
+---

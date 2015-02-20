@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "zip"
+repo:   "postmodern/rubyzip2"
+date:   2015-02-18 17:25:44
+gemurl: http://github.com/postmodern/rubyzip2
+---

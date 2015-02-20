@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "rdf-rdfa"
+repo:   "ruby-rdf/rdf-rdfa"
+date:   2015-02-18 17:07:04
+gemurl: http://ruby-rdf.github.com/rdf-rdfa
+---

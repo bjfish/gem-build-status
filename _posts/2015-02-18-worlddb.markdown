@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "worlddb"
+repo:   "worlddb/world.db.ruby"
+date:   2015-02-18 17:01:27
+gemurl: https://github.com/worlddb/world.db.ruby
+---

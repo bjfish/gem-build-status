@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "embedly"
+repo:   "embedly/embedly-ruby"
+date:   2015-02-18 17:20:12
+gemurl: http://github.com/embedly/embedly-ruby
+---

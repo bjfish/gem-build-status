@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "dm-pager"
+repo:   "visionmedia/dm-pagination"
+date:   2015-02-18 17:10:48
+gemurl: http://github.com/visionmedia/dm-pagination
+---

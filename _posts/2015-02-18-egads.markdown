@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "egads"
+repo:   "kickstarter/egads"
+date:   2015-02-18 17:18:39
+gemurl: https://github.com/kickstarter/egads
+---

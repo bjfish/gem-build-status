@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "sicuro"
+repo:   "duckinator/sicuro"
+date:   2015-02-18 17:00:03
+gemurl: http://github.com/duckinator/sicuro
+---

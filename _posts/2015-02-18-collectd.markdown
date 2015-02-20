@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "collectd"
+repo:   "astro/ruby-collectd"
+date:   2015-02-18 17:20:30
+gemurl: http://github.com/astro/ruby-collectd
+---

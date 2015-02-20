@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "notify"
+repo:   "jugyo/notify"
+date:   2015-02-18 17:11:14
+gemurl: http://github.com/jugyo/notify
+---

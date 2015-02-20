@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "dbi"
+repo:   "erikh/ruby-dbi"
+date:   2015-02-18 17:20:57
+gemurl: http://www.rubyforge.org/projects/ruby-dbi
+---

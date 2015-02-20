@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "jquery.fileupload-rails"
+repo:   "semaperepelitsa/jquery.fileupload-rails"
+date:   2015-02-18 17:06:17
+gemurl: https://github.com/semaperepelitsa/jquery.fileupload-rails
+---

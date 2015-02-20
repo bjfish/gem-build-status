@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "bookscan"
+repo:   "tumf/bookscan"
+date:   2015-02-18 16:58:24
+gemurl: http://github.com/tumf/bookscan
+---

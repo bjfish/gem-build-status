@@ -2,6 +2,6 @@
 layout: post
 title:  "httpi"
 repo:   "savonrb/httpi"
-date:   2015-02-18 10:45:42
+date:   2015-02-18 17:28:59
 gemurl: http://github.com/savonrb/httpi
 ---

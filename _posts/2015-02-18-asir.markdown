@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "asir"
+repo:   "kstephens/abstracting_services_in_ruby"
+date:   2015-02-18 17:08:28
+gemurl: http://github.com/kstephens/abstracting_services_in_ruby
+---

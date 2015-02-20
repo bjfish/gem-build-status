@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "webhdfs"
+repo:   "kzk/webhdfs"
+date:   2015-02-18 16:59:41
+gemurl: https://github.com/kzk/webhdfs/
+---

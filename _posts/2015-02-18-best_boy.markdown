@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "best_boy"
+repo:   "absolventa/best_boy"
+date:   2015-02-18 16:58:57
+gemurl: https://github.com/absolventa/best_boy
+---

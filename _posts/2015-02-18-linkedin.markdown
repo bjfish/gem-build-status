@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "linkedin"
+repo:   "hexgnu/linkedin"
+date:   2015-02-18 17:23:03
+gemurl: http://github.com/hexgnu/linkedin
+---

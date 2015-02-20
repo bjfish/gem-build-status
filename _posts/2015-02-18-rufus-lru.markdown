@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "rufus-lru"
+repo:   "jmettraux/rufus-lru"
+date:   2015-02-18 17:08:58
+gemurl: http://github.com/jmettraux/rufus-lru
+---

@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "show_for"
+repo:   "plataformatec/show_for"
+date:   2015-02-18 17:13:18
+gemurl: http://github.com/plataformatec/show_for
+---

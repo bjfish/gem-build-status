@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "mail_safe"
+repo:   "myronmarston/mail_safe"
+date:   2015-02-18 17:20:13
+gemurl: http://github.com/myronmarston/mail_safe
+---

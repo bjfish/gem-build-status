@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "afmotion"
+repo:   "clayallsopp/AFMotion"
+date:   2015-02-18 17:02:21
+gemurl: https://github.com/clayallsopp/AFMotion
+---

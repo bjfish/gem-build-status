@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "sorcerer"
+repo:   "jimweirich/sorcerer"
+date:   2015-02-18 17:22:11
+gemurl: http://github.com/jimweirich/sorcerer
+---

@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "guard-pow"
+repo:   "guard/guard-pow"
+date:   2015-02-18 17:21:35
+gemurl: http://rubygems.org/gems/guard-pow
+---

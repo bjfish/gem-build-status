@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "em_aws"
+repo:   "JoshMcKin/em_aws"
+date:   2015-02-18 17:18:49
+gemurl: https://github.com/JoshMcKin/em_aws
+---

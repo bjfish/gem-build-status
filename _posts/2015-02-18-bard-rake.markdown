@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "bard-rake"
+repo:   "botandrose/bard-rake"
+date:   2015-02-18 17:12:24
+gemurl: http://github.com/botandrose/bard-rake
+---

@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "hiera-gpg"
+repo:   "crayfishx/hiera-gpg"
+date:   2015-02-18 16:58:18
+gemurl: http://github.com/crayfishx/hiera-gpg
+---

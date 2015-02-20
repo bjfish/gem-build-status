@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "sorcery"
+repo:   "NoamB/sorcery"
+date:   2015-02-18 17:23:18
+gemurl: http://github.com/NoamB/sorcery
+---

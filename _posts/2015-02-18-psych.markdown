@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "psych"
+repo:   "tenderlove/psych"
+date:   2015-02-18 17:25:01
+gemurl: http://github.com/tenderlove/psych
+---

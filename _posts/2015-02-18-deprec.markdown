@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "deprec"
+repo:   "mbailey/deprec"
+date:   2015-02-18 17:13:45
+gemurl: http://deprec.org/
+---

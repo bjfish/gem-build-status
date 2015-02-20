@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "k_means"
+repo:   "reddavis/k_means"
+date:   2015-02-18 17:11:03
+gemurl: http://github.com/reddavis/k_means
+---

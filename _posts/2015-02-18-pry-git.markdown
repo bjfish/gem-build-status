@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "pry-git"
+repo:   "pry/pry-git"
+date:   2015-02-18 17:19:22
+gemurl: http://github.com/pry/pry-git
+---

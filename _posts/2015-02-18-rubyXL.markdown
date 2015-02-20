@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "rubyXL"
+repo:   "gilt/rubyXL"
+date:   2015-02-18 17:19:59
+gemurl: http://github.com/gilt/rubyXL
+---

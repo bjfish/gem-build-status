@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "smt_rails"
+repo:   "railsware/smt_rails"
+date:   2015-02-18 17:07:28
+gemurl: https://github.com/railsware/smt_rails
+---

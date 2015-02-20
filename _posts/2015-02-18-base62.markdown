@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "base62"
+repo:   "jtzemp/base62"
+date:   2015-02-18 17:08:24
+gemurl: https://github.com/jtzemp/base62
+---

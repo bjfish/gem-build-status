@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "configs"
+repo:   "kickstarter/configs"
+date:   2015-02-18 17:02:08
+gemurl: http://github.com/kickstarter/configs
+---

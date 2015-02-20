@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "rack-oauth2"
+repo:   "nov/rack-oauth2"
+date:   2015-02-18 17:26:29
+gemurl: http://github.com/nov/rack-oauth2
+---

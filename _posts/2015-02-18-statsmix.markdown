@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "statsmix"
+repo:   "tmarkiewicz/statsmix"
+date:   2015-02-18 17:03:51
+gemurl: http://github.com/tmarkiewicz/statsmix
+---

@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "wires"
+repo:   "jemc/wires"
+date:   2015-02-18 17:09:07
+gemurl: https://github.com/jemc/wires/
+---

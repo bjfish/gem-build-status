@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "ruby-saml"
+repo:   "onelogin/ruby-saml"
+date:   2015-02-18 17:17:35
+gemurl: http://github.com/onelogin/ruby-saml
+---

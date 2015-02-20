@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "awsome"
+repo:   "0x0539/awsome"
+date:   2015-02-18 17:14:56
+gemurl: http://github.com/0x0539/awsome
+---

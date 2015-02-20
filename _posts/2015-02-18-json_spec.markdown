@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "json_spec"
+repo:   "collectiveidea/json_spec"
+date:   2015-02-18 17:25:55
+gemurl: https://github.com/collectiveidea/json_spec
+---

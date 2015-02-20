@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "em-mongo"
+repo:   "bcg/em-mongo"
+date:   2015-02-18 17:06:35
+gemurl: https://github.com/bcg/em-mongo
+---

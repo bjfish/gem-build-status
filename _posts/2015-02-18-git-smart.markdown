@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "git-smart"
+repo:   "geelen/git-smart"
+date:   2015-02-18 17:04:28
+gemurl: http://github.com/geelen/git-smart
+---

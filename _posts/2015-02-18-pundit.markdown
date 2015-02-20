@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "pundit"
+repo:   "elabs/pundit"
+date:   2015-02-18 17:10:26
+gemurl: https://github.com/elabs/pundit
+---

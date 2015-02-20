@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "allowy"
+repo:   "dnagir/allowy"
+date:   2015-02-18 17:08:03
+gemurl: https://github.com/dnagir/allowy
+---

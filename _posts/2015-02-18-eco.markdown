@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "eco"
+repo:   "sstephenson/ruby-eco"
+date:   2015-02-18 17:26:24
+gemurl: https://github.com/sstephenson/ruby-eco
+---

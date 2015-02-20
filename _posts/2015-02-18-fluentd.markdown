@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "fluentd"
+repo:   "fluent/fluentd"
+date:   2015-02-18 17:20:54
+gemurl: http://fluentd.org/
+---

@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "narray"
+repo:   "masa16/narray"
+date:   2015-02-18 17:23:43
+gemurl: http://masa16.github.io/narray/
+---

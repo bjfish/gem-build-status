@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "spec"
+repo:   "bootstraponline/spec"
+date:   2015-02-18 17:04:27
+gemurl: https://github.com/bootstraponline/spec
+---

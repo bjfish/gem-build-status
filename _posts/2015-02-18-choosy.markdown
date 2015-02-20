@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "choosy"
+repo:   "gabemc/choosy"
+date:   2015-02-18 17:00:57
+gemurl: http://github.com/gabemc/choosy
+---

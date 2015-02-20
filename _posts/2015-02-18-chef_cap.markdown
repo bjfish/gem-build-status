@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "chef_cap"
+repo:   "Casecommons/chef_cap"
+date:   2015-02-18 17:10:37
+gemurl: https://github.com/Casecommons/chef_cap
+---

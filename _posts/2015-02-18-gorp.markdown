@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "gorp"
+repo:   "rubys/gorp"
+date:   2015-02-18 17:10:09
+gemurl: http://github.com/rubys/gorp
+---

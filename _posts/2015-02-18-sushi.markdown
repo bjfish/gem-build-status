@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "sushi"
+repo:   "presskey/sushi"
+date:   2015-02-18 17:05:28
+gemurl: http://github.com/presskey/sushi
+---

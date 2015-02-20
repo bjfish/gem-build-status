@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "cinch"
+repo:   "cinchrb/cinch"
+date:   2015-02-18 17:20:04
+gemurl: http://cinchrb.org
+---

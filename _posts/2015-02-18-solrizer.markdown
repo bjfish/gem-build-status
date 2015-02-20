@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "solrizer"
+repo:   "projecthydra/solrizer"
+date:   2015-02-18 17:16:59
+gemurl: http://github.com/projecthydra/solrizer
+---

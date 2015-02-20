@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "amiando"
+repo:   "xing/amiando"
+date:   2015-02-18 17:06:29
+gemurl: 
+---

@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "chefspec"
+repo:   "sethvargo/chefspec"
+date:   2015-02-18 17:20:29
+gemurl: http://code.sethvargo.com/chefspec
+---

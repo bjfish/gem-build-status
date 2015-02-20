@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "libusb"
+repo:   "larskanis/libusb"
+date:   2015-02-18 17:03:20
+gemurl: http://github.com/larskanis/libusb
+---

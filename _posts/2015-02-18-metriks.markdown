@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "metriks"
+repo:   "eric/metriks"
+date:   2015-02-18 17:22:12
+gemurl: https://github.com/eric/metriks
+---

@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "symbolic"
+repo:   "brainopia/symbolic"
+date:   2015-02-18 16:58:43
+gemurl: http://brainopia.github.com/symbolic
+---

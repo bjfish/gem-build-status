@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "wicked"
+repo:   "schneems/wicked"
+date:   2015-02-18 17:23:03
+gemurl: http://github.com/schneems/wicked
+---

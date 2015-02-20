@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "cuba"
+repo:   "soveran/cuba"
+date:   2015-02-18 16:58:00
+gemurl: https://github.com/soveran/cuba
+---

@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "slogger"
+repo:   "leandrosilva/slogger"
+date:   2015-02-18 17:10:20
+gemurl: http://github.com/leandrosilva/slogger
+---

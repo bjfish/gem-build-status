@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "crocodoc"
+repo:   "crocodoc/crocodoc-ruby"
+date:   2015-02-18 17:02:14
+gemurl: https://crocodoc.com/docs/api/
+---

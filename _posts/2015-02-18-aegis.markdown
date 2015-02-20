@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "aegis"
+repo:   "makandra/aegis"
+date:   2015-02-18 17:07:39
+gemurl: http://github.com/makandra/aegis
+---

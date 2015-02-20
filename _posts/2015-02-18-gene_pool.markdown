@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "gene_pool"
+repo:   "bpardee/gene_pool"
+date:   2015-02-18 17:01:07
+gemurl: http://github.com/bpardee/gene_pool
+---

@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "bio-gem"
+repo:   "helios/bioruby-gem"
+date:   2015-02-18 17:00:42
+gemurl: http://github.com/helios/bioruby-gem
+---

@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "bindata"
+repo:   "dmendel/bindata"
+date:   2015-02-18 17:22:13
+gemurl: http://github.com/dmendel/bindata
+---

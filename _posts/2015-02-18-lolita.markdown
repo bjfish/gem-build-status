@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "lolita"
+repo:   "ithouse/lolita"
+date:   2015-02-18 17:05:36
+gemurl: http://github.com/ithouse/lolita
+---

@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "auto_html"
+repo:   "dejan/auto_html"
+date:   2015-02-18 17:17:41
+gemurl: http://github.com/dejan/auto_html
+---

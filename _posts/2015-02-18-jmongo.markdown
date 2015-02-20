@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "jmongo"
+repo:   "guyboertje/jmongo"
+date:   2015-02-18 17:07:44
+gemurl: http://github.com/guyboertje/jmongo
+---

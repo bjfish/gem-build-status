@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "faceted"
+repo:   "trunkclub/faceted"
+date:   2015-02-18 17:14:09
+gemurl: http://github.com/trunkclub/faceted
+---

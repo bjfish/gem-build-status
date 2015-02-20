@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "rbovirt"
+repo:   "abenari/rbovirt"
+date:   2015-02-18 17:22:08
+gemurl: http://github.com/abenari/rbovirt
+---

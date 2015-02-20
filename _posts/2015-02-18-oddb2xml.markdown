@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "oddb2xml"
+repo:   "zdavatz/oddb2xml"
+date:   2015-02-18 17:13:03
+gemurl: https://github.com/zdavatz/oddb2xml
+---

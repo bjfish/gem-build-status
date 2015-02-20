@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "capify-ec2"
+repo:   "forward/capify-ec2"
+date:   2015-02-18 17:15:45
+gemurl: http://github.com/forward/capify-ec2
+---

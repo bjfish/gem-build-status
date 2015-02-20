@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "ffi-icu"
+repo:   "jarib/ffi-icu"
+date:   2015-02-18 17:07:01
+gemurl: http://github.com/jarib/ffi-icu
+---

@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "wisepdf"
+repo:   "igor-alexandrov/wisepdf"
+date:   2015-02-18 17:01:44
+gemurl: http://github.com/igor-alexandrov/wisepdf
+---

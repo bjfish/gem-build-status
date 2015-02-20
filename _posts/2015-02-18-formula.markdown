@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "formula"
+repo:   "ksylvest/formula"
+date:   2015-02-18 17:08:50
+gemurl: http://github.com/ksylvest/formula
+---

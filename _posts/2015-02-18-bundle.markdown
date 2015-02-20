@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "bundle"
+repo:   "will/bundle"
+date:   2015-02-18 17:25:57
+gemurl: http://gembundler.com
+---

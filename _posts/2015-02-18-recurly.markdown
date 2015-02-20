@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "recurly"
+repo:   "recurly/recurly-client-ruby"
+date:   2015-02-18 17:20:38
+gemurl: https://github.com/recurly/recurly-client-ruby
+---

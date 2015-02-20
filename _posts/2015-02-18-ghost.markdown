@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "ghost"
+repo:   "bjeanes/ghost"
+date:   2015-02-18 17:13:26
+gemurl: http://github.com/bjeanes/ghost
+---

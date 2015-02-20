@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "synaptic4r"
+repo:   "attsynaptic/synaptic4r"
+date:   2015-02-18 17:08:28
+gemurl: http://github.com/attsynaptic/synaptic4r
+---

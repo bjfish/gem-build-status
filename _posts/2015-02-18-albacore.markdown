@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "albacore"
+repo:   "Albacore/albacore"
+date:   2015-02-18 17:19:33
+gemurl: http://albacorebuild.net
+---

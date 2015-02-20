@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "sportdb"
+repo:   "sportdb/sport.db.ruby"
+date:   2015-02-18 17:13:12
+gemurl: https://github.com/sportdb/sport.db.ruby
+---

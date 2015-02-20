@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "session"
+repo:   "ahoward/session"
+date:   2015-02-18 17:21:22
+gemurl: https://github.com/ahoward/session
+---

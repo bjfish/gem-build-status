@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "elo"
+repo:   "iain/elo"
+date:   2015-02-18 17:05:51
+gemurl: http://github.com/iain/elo
+---

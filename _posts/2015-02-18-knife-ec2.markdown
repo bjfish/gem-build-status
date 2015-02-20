@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "knife-ec2"
+repo:   "opscode/knife-ec2"
+date:   2015-02-18 17:21:26
+gemurl: https://github.com/opscode/knife-ec2
+---

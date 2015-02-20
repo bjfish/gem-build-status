@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "neo4j-core"
+repo:   "neo4jrb/neo4j-core"
+date:   2015-02-18 17:04:12
+gemurl: https://github.com/neo4jrb/neo4j-core
+---

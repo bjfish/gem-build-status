@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "embedda"
+repo:   "kaspergrubbe/embedda"
+date:   2015-02-18 17:03:33
+gemurl: http://github.com/kaspergrubbe/embedda
+---

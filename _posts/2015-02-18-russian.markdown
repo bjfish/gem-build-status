@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "russian"
+repo:   "yaroslav/russian"
+date:   2015-02-18 17:23:30
+gemurl: http://github.com/yaroslav/russian/
+---

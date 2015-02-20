@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "ez_model"
+repo:   "tianhsky/EZModel"
+date:   2015-02-18 17:15:54
+gemurl: http://rubygems.org/gems/ez_model
+---

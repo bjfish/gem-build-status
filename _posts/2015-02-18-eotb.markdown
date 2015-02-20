@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "eotb"
+repo:   "Ragnarson/eotb_rails_plugin"
+date:   2015-02-18 17:06:23
+gemurl: http://github.com/Ragnarson/eotb_rails_plugin
+---

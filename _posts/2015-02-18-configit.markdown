@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "configit"
+repo:   "krisr/configit"
+date:   2015-02-18 17:12:44
+gemurl: http://www.aptana.com
+---

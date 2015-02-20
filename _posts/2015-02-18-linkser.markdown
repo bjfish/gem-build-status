@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "linkser"
+repo:   "ging/linkser"
+date:   2015-02-18 17:00:43
+gemurl: https://github.com/ging/linkser
+---

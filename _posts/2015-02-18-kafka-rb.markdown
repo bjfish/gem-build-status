@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "kafka-rb"
+repo:   "acrosa/kafka-rb"
+date:   2015-02-18 17:17:07
+gemurl: http://github.com/acrosa/kafka-rb
+---

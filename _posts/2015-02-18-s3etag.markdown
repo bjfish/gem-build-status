@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "s3etag"
+repo:   "swdyh/s3etag"
+date:   2015-02-18 17:17:38
+gemurl: https://github.com/swdyh/s3etag
+---

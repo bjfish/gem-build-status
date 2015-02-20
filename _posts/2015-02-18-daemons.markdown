@@ -2,6 +2,6 @@
 layout: post
 title:  "daemons"
 repo:   "thuehlinger/daemons"
-date:   2015-02-18 10:46:32
+date:   2015-02-18 17:29:50
 gemurl: http://daemons.rubyforge.org
 ---

@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "slimmer"
+repo:   "alphagov/slimmer"
+date:   2015-02-18 17:21:52
+gemurl: http://github.com/alphagov/slimmer
+---

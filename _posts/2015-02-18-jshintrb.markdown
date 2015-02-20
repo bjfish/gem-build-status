@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "jshintrb"
+repo:   "stereobooster/jshintrb"
+date:   2015-02-18 17:24:50
+gemurl: https://github.com/stereobooster/jshintrb
+---

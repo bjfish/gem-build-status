@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "thumbs_up"
+repo:   "bouchard/thumbs_up"
+date:   2015-02-18 17:15:18
+gemurl: http://github.com/bouchard/thumbs_up
+---

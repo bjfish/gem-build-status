@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "aws-ses"
+repo:   "drewblas/aws-ses"
+date:   2015-02-18 17:26:20
+gemurl: http://github.com/drewblas/aws-ses
+---

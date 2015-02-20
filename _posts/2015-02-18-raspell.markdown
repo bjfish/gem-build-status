@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "raspell"
+repo:   "fauna/raspell"
+date:   2015-02-18 17:04:53
+gemurl: http://fauna.github.com/fauna/raspell/
+---

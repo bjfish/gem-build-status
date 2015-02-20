@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "has_flags"
+repo:   "ashleym1972/has-flags"
+date:   2015-02-18 17:12:35
+gemurl: https://github.com/ashleym1972/has-flags
+---

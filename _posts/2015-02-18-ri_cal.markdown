@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "ri_cal"
+repo:   "rubyredrick/ri_cal"
+date:   2015-02-18 17:23:56
+gemurl: http://github.com/rubyredrick/ri_cal
+---

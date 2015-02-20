@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "assette"
+repo:   "Talby/assette"
+date:   2015-02-18 17:04:55
+gemurl: http://github.com/Talby/assette
+---

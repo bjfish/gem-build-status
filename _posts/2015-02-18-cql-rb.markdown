@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "cql-rb"
+repo:   "iconara/cql-rb"
+date:   2015-02-18 17:02:35
+gemurl: http://github.com/iconara/cql-rb
+---

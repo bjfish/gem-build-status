@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "app_conf"
+repo:   "PhilT/app_conf"
+date:   2015-02-18 17:09:41
+gemurl: https://github.com/PhilT/app_conf
+---

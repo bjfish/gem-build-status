@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "quo_vadis"
+repo:   "airblade/quo_vadis"
+date:   2015-02-18 17:19:30
+gemurl: https://github.com/airblade/quo_vadis
+---

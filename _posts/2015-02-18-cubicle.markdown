@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "cubicle"
+repo:   "PlasticLizard/cubicle"
+date:   2015-02-18 17:07:19
+gemurl: http://github.com/PlasticLizard/cubicle
+---

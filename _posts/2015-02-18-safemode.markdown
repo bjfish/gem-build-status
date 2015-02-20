@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "safemode"
+repo:   "svenfuchs/safemode"
+date:   2015-02-18 17:20:17
+gemurl: http://github.com/svenfuchs/safemode
+---

@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "testbot"
+repo:   "joakimk/testbot"
+date:   2015-02-18 17:08:38
+gemurl: http://github.com/joakimk/testbot
+---

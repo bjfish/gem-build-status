@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "cantango"
+repo:   "kristianmandrup/cantango"
+date:   2015-02-18 16:59:32
+gemurl: http://github.com/kristianmandrup/cantango
+---

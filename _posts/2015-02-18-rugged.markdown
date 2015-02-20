@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "rugged"
+repo:   "libgit2/rugged"
+date:   2015-02-18 17:17:31
+gemurl: https://github.com/libgit2/rugged
+---

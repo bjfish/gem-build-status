@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "deface"
+repo:   "spree/deface"
+date:   2015-02-18 17:24:53
+gemurl: https://github.com/spree/deface
+---

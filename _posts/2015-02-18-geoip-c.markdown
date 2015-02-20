@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "geoip-c"
+repo:   "mtodd/geoip"
+date:   2015-02-18 17:14:43
+gemurl: http://github.com/mtodd/geoip
+---

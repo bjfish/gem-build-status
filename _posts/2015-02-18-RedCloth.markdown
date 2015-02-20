@@ -2,6 +2,6 @@
 layout: post
 title:  "RedCloth"
 repo:   "jgarber/redcloth"
-date:   2015-02-18 10:44:56
+date:   2015-02-18 17:28:10
 gemurl: http://redcloth.org
 ---

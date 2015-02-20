@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "the_role"
+repo:   "the-teacher/the_role"
+date:   2015-02-18 17:03:17
+gemurl: https://github.com/the-teacher/the_role
+---

@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "i18n_routing"
+repo:   "kwi/i18n_routing"
+date:   2015-02-18 17:12:22
+gemurl: http://github.com/kwi/i18n_routing
+---

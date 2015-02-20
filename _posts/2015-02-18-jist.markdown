@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "jist"
+repo:   "ConradIrwin/jist"
+date:   2015-02-18 17:18:25
+gemurl: https://github.com/ConradIrwin/jist
+---

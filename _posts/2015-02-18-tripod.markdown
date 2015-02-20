@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "tripod"
+repo:   "Swirrl/tripod"
+date:   2015-02-18 17:08:25
+gemurl: http://github.com/Swirrl/tripod
+---

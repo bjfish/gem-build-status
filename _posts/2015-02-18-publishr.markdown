@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "publishr"
+repo:   "michaelfranzl/PublishR"
+date:   2015-02-18 17:05:13
+gemurl: http://red-e.eu/app/publishr
+---

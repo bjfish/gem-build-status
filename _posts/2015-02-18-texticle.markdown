@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "texticle"
+repo:   "tenderlove/texticle"
+date:   2015-02-18 17:10:45
+gemurl: http://texticle.github.com/texticle
+---

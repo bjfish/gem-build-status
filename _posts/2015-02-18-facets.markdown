@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "facets"
+repo:   "rubyworks/facets"
+date:   2015-02-18 17:24:44
+gemurl: http://rubyworks.github.com/facets
+---

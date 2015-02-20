@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "filter_fu"
+repo:   "benedikt/filter_fu"
+date:   2015-02-18 17:02:43
+gemurl: http://github.com/benedikt/filter_fu
+---

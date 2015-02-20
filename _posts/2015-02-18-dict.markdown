@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "dict"
+repo:   "Ragnarson/dict-gem"
+date:   2015-02-18 17:08:38
+gemurl: https://github.com/Ragnarson/dict-gem
+---

@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "crypt19-rb"
+repo:   "coffeejunk/crypt19"
+date:   2015-02-18 16:59:31
+gemurl: https://github.com/coffeejunk/crypt19
+---

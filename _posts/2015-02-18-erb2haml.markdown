@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "erb2haml"
+repo:   "dhl/erb2haml"
+date:   2015-02-18 17:13:14
+gemurl: https://github.com/dhl/erb2haml
+---

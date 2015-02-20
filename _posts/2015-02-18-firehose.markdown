@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "firehose"
+repo:   "polleverywhere/firehose"
+date:   2015-02-18 17:05:33
+gemurl: http://firehose.io/
+---

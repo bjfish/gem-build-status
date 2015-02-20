@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "trinidad"
+repo:   "trinidad/trinidad"
+date:   2015-02-18 17:21:17
+gemurl: https://github.com/trinidad/trinidad
+---

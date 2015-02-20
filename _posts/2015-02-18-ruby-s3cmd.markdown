@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "ruby-s3cmd"
+repo:   "jjuliano/ruby-s3cmd"
+date:   2015-02-18 17:03:01
+gemurl: http://github.com/jjuliano/ruby-s3cmd
+---

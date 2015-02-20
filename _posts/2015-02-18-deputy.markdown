@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "deputy"
+repo:   "dawanda/deputy"
+date:   2015-02-18 17:14:26
+gemurl: http://github.com/dawanda/deputy
+---

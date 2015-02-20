@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "joosy"
+repo:   "joosy/joosy"
+date:   2015-02-18 17:03:15
+gemurl: http://github.com/joosy/joosy
+---

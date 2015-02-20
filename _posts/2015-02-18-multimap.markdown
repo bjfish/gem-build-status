@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "multimap"
+repo:   "doxavore/multimap"
+date:   2015-02-18 17:06:22
+gemurl: http://github.com/doxavore/multimap
+---

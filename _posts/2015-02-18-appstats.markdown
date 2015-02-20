@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "appstats"
+repo:   "aforward/appstats"
+date:   2015-02-18 17:20:08
+gemurl: http://github.com/aforward/appstats
+---

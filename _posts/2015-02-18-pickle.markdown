@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "pickle"
+repo:   "ianwhite/pickle"
+date:   2015-02-18 17:22:38
+gemurl: https://github.com/ianwhite/pickle
+---

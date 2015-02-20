@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "bugsnag"
+repo:   "bugsnag/bugsnag-ruby"
+date:   2015-02-18 17:24:27
+gemurl: http://github.com/bugsnag/bugsnag-ruby
+---

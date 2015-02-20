@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "route53"
+repo:   "pcorliss/ruby_route_53"
+date:   2015-02-18 17:13:03
+gemurl: http://github.com/pcorliss/ruby_route_53
+---

@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "cb-api"
+repo:   "cbdr/ruby-cb-api"
+date:   2015-02-18 17:14:29
+gemurl: http://api.careerbuilder.com
+---

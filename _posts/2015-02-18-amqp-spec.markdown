@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "amqp-spec"
+repo:   "arvicco/amqp-spec"
+date:   2015-02-18 17:05:20
+gemurl: http://github.com/arvicco/amqp-spec
+---

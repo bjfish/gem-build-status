@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "my-simon"
+repo:   "samcreate/simon-cli"
+date:   2015-02-18 16:59:48
+gemurl: https://github.com/samcreate/simon-cli
+---

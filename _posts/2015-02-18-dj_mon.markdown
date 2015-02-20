@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "dj_mon"
+repo:   "akshayrawat/dj_mon"
+date:   2015-02-18 17:13:56
+gemurl: https://github.com/akshayrawat/dj_mon
+---

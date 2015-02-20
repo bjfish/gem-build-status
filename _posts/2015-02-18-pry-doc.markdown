@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "pry-doc"
+repo:   "pry/pry-doc"
+date:   2015-02-18 17:26:28
+gemurl: https://github.com/pry/pry-doc
+---

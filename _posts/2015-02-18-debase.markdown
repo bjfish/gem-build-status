@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "debase"
+repo:   "denofevil/debase"
+date:   2015-02-18 17:08:31
+gemurl: https://github.com/denofevil/debase
+---

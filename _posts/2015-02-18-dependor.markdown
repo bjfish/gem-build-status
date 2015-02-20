@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "dependor"
+repo:   "psyho/dependor"
+date:   2015-02-18 17:04:13
+gemurl: http://github.com/psyho/dependor
+---

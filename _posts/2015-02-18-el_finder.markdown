@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "el_finder"
+repo:   "phallstrom/el_finder"
+date:   2015-02-18 17:09:00
+gemurl: http://github.com/phallstrom/el_finder
+---

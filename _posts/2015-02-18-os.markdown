@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "os"
+repo:   "rdp/os"
+date:   2015-02-18 17:22:14
+gemurl: http://github.com/rdp/os
+---

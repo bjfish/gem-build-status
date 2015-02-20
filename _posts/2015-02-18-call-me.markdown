@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "call-me"
+repo:   "meh/ruby-call-me"
+date:   2015-02-18 17:04:50
+gemurl: http://github.com/meh/ruby-call-me
+---

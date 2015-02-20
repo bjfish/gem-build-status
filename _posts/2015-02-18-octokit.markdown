@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "octokit"
+repo:   "octokit/octokit.rb"
+date:   2015-02-18 17:25:34
+gemurl: https://github.com/octokit/octokit.rb
+---

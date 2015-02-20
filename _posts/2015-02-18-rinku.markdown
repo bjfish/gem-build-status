@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "rinku"
+repo:   "vmg/rinku"
+date:   2015-02-18 17:25:58
+gemurl: http://github.com/vmg/rinku
+---

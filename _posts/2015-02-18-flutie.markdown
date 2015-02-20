@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "flutie"
+repo:   "thoughtbot/flutie"
+date:   2015-02-18 17:18:31
+gemurl: http://github.com/thoughtbot/flutie
+---

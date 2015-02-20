@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "awscli"
+repo:   "ashrithr/awscli"
+date:   2015-02-18 17:02:36
+gemurl: http://github.com/ashrithr/awscli
+---

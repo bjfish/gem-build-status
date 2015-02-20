@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "ckeditor"
+repo:   "galetahub/ckeditor"
+date:   2015-02-18 17:25:12
+gemurl: https://github.com/galetahub/ckeditor
+---

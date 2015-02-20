@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "yammer4r"
+repo:   "pmoran/yammer4r"
+date:   2015-02-18 17:00:32
+gemurl: http://github.com/pmoran/yammer4r
+---

@@ -2,6 +2,6 @@
 layout: post
 title:  "rgeo"
 repo:   "rgeo/rgeo"
-date:   2015-02-18 10:43:48
+date:   2015-02-18 17:27:00
 gemurl: http://dazuma.github.com/rgeo
 ---

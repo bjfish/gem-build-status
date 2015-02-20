@@ -2,6 +2,6 @@
 layout: post
 title:  "bundler"
 repo:   "carlhuda/bundler"
-date:   2015-02-18 10:46:45
+date:   2015-02-18 17:30:03
 gemurl: http://bundler.io
 ---

@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "rexle"
+repo:   "jrobertson/rexle"
+date:   2015-02-18 17:20:18
+gemurl: https://github.com/jrobertson/rexle
+---

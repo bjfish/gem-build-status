@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "shindo"
+repo:   "geemus/shindo"
+date:   2015-02-18 17:15:14
+gemurl: http://github.com/geemus/shindo
+---

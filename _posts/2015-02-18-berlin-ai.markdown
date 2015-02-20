@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "berlin-ai"
+repo:   "thirdside/berlin-ai"
+date:   2015-02-18 17:09:47
+gemurl: http://github.com/thirdside/berlin-ai
+---

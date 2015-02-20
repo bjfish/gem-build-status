@@ -2,6 +2,6 @@
 layout: post
 title:  "ransack"
 repo:   "activerecord-hackery/ransack"
-date:   2015-02-18 10:44:04
+date:   2015-02-18 17:27:16
 gemurl: https://github.com/activerecord-hackery/ransack
 ---

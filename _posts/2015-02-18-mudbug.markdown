@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "mudbug"
+repo:   "rickhull/mudbug"
+date:   2015-02-18 17:04:48
+gemurl: http://github.com/rickhull/mudbug
+---

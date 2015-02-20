@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "yaji"
+repo:   "avsej/yaji"
+date:   2015-02-18 17:08:28
+gemurl: https://github.com/avsej/yaji
+---

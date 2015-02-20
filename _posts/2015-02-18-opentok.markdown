@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "opentok"
+repo:   "opentok/Opentok-Ruby-SDK"
+date:   2015-02-18 17:14:35
+gemurl: https://opentok.github.io/opentok-ruby-sdk
+---

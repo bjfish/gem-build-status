@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "dm-rails"
+repo:   "datamapper/dm-rails"
+date:   2015-02-18 17:17:40
+gemurl: http://github.com/datamapper/dm-rails
+---

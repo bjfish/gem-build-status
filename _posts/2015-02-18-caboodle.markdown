@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "caboodle"
+repo:   "steflewandowski/caboodle"
+date:   2015-02-18 17:11:05
+gemurl: http://github.com/steflewandowski/caboodle
+---

@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "grit"
+repo:   "mojombo/grit"
+date:   2015-02-18 17:26:18
+gemurl: http://github.com/mojombo/grit
+---

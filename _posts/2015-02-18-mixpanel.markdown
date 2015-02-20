@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "mixpanel"
+repo:   "zevarito/mixpanel"
+date:   2015-02-18 17:26:02
+gemurl: http://github.com/zevarito/mixpanel
+---

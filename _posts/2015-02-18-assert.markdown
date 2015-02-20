@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "assert"
+repo:   "redding/assert"
+date:   2015-02-18 17:05:03
+gemurl: http://github.com/redding/assert
+---

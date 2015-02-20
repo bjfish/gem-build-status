@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "test-loop"
+repo:   "sunaku/test-loop"
+date:   2015-02-18 17:06:44
+gemurl: http://github.com/sunaku/test-loop
+---

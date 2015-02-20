@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "dynarex"
+repo:   "jrobertson/dynarex"
+date:   2015-02-18 17:22:57
+gemurl: https://github.com/jrobertson/dynarex
+---

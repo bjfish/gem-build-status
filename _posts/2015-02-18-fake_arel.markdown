@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "fake_arel"
+repo:   "gammons/fake_arel"
+date:   2015-02-18 17:10:54
+gemurl: http://github.com/gammons/fake_arel
+---

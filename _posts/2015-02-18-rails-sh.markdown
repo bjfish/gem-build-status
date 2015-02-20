@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "rails-sh"
+repo:   "jugyo/rails-sh"
+date:   2015-02-18 17:00:08
+gemurl: http://github.com/jugyo/rails-sh
+---

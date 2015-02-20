@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "watchr"
+repo:   "mynyml/watchr"
+date:   2015-02-18 17:22:32
+gemurl: http://mynyml.com/ruby/flexible-continuous-testing
+---

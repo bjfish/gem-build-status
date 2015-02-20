@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "crummy"
+repo:   "zachinglis/crummy"
+date:   2015-02-18 17:23:48
+gemurl: http://github.com/zachinglis/crummy
+---

@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "win32-service"
+repo:   "djberg96/win32-service"
+date:   2015-02-18 17:17:10
+gemurl: http://github.com/djberg96/win32-service
+---

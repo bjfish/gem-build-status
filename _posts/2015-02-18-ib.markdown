@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "ib"
+repo:   "rubymotion/ib"
+date:   2015-02-18 16:59:43
+gemurl: https://github.com/rubymotion/ib
+---

@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "notifier"
+repo:   "fnando/notifier"
+date:   2015-02-18 17:06:54
+gemurl: http://rubygems.org/gems/notifier
+---

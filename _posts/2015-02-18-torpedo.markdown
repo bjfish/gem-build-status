@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "torpedo"
+repo:   "dprince/torpedo"
+date:   2015-02-18 17:04:47
+gemurl: http://github.com/dprince/torpedo
+---

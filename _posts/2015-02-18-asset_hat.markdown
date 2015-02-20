@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "asset_hat"
+repo:   "mintdigital/asset_hat"
+date:   2015-02-18 17:13:05
+gemurl: http://mintdigital.github.com/asset_hat
+---

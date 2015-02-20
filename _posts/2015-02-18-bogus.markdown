@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "bogus"
+repo:   "psyho/bogus"
+date:   2015-02-18 17:06:32
+gemurl: https://github.com/psyho/bogus
+---

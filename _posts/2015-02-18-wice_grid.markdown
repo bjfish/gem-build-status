@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "wice_grid"
+repo:   "leikind/wice_grid"
+date:   2015-02-18 17:08:36
+gemurl: https://github.com/leikind/wice_grid
+---

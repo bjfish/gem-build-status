@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "rmagick4j"
+repo:   "Serabe/RMagick4J"
+date:   2015-02-18 17:09:54
+gemurl: https://github.com/Serabe/RMagick4J
+---

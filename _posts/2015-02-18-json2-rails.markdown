@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "json2-rails"
+repo:   "torbjon/json2-rails"
+date:   2015-02-18 17:14:05
+gemurl: https://github.com/torbjon/json2-rails
+---

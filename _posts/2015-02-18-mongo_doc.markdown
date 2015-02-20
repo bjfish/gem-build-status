@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "mongo_doc"
+repo:   "leshill/mongodoc"
+date:   2015-02-18 17:06:46
+gemurl: http://github.com/leshill/mongodoc
+---

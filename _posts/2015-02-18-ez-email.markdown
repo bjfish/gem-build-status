@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "ez-email"
+repo:   "djberg96/ez-email"
+date:   2015-02-18 17:07:33
+gemurl: https://github.com/djberg96/ez-email
+---

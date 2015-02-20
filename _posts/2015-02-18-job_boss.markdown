@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "job_boss"
+repo:   "cheerfulstoic/job_boss"
+date:   2015-02-18 17:03:06
+gemurl: http://github.com/cheerfulstoic/job_boss
+---

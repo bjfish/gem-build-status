@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "promise"
+repo:   "bhuga/promising-future"
+date:   2015-02-18 17:13:31
+gemurl: http://promise.rubyforge.org/
+---

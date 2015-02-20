@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "bump"
+repo:   "gregorym/bump"
+date:   2015-02-18 17:19:51
+gemurl: https://github.com/gregorym/bump
+---

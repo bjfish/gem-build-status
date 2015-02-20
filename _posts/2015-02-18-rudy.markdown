@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "rudy"
+repo:   "solutious/rudy"
+date:   2015-02-18 17:11:00
+gemurl: http://solutious.com/projects/rudy/
+---

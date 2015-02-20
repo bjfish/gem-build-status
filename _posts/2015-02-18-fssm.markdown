@@ -2,6 +2,6 @@
 layout: post
 title:  "fssm"
 repo:   "ttilley/fssm"
-date:   2015-02-18 10:46:17
+date:   2015-02-18 17:29:35
 gemurl: https://github.com/ttilley/fssm
 ---

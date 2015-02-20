@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "teacup"
+repo:   "rubymotion/teacup"
+date:   2015-02-18 17:15:03
+gemurl: https://github.com/rubymotion/teacup
+---

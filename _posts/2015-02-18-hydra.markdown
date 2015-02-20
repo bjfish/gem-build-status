@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "hydra"
+repo:   "projecthydra/hydra"
+date:   2015-02-18 17:13:46
+gemurl: http://projecthydra.org/
+---

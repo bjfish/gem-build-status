@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "bacon"
+repo:   "chneukirchen/bacon"
+date:   2015-02-18 17:12:49
+gemurl: http://github.com/chneukirchen/bacon
+---

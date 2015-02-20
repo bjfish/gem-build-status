@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "io-like"
+repo:   "javanthropus/io-like"
+date:   2015-02-18 17:06:20
+gemurl: http://io-like.rubyforge.org
+---

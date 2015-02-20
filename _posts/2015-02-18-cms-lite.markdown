@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "cms-lite"
+repo:   "jbasdf/cms_lite"
+date:   2015-02-18 17:22:00
+gemurl: http://github.com/jbasdf/cms_lite
+---

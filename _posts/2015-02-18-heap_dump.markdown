@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "heap_dump"
+repo:   "Vasfed/heap_dump"
+date:   2015-02-18 17:04:31
+gemurl: https://github.com/Vasfed/heap_dump
+---

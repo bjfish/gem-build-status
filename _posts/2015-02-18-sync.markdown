@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "sync"
+repo:   "chrismccord/sync"
+date:   2015-02-18 17:04:59
+gemurl: http://github.com/chrismccord/sync
+---

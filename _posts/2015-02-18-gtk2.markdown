@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "gtk2"
+repo:   "ruby-gnome2/ruby-gnome2"
+date:   2015-02-18 17:18:53
+gemurl: http://ruby-gnome2.sourceforge.jp/
+---

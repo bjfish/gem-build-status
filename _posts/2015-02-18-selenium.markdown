@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "selenium"
+repo:   "shvets/selenium"
+date:   2015-02-18 17:17:35
+gemurl: http://github.com/shvets/selenium
+---

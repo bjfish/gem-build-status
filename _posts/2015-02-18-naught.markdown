@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "naught"
+repo:   "avdi/naught"
+date:   2015-02-18 17:07:48
+gemurl: https://github.com/avdi/naught
+---

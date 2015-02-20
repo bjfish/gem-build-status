@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "ab_admin"
+repo:   "leschenko/ab_admin"
+date:   2015-02-18 17:19:12
+gemurl: https://github.com/leschenko/ab_admin
+---

@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "asin"
+repo:   "phoet/asin"
+date:   2015-02-18 17:08:54
+gemurl: http://github.com/phoet/asin
+---

@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "metamri"
+repo:   "brainmap/metamri"
+date:   2015-02-18 17:04:45
+gemurl: http://github.com/brainmap/metamri
+---

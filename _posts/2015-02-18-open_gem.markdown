@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "open_gem"
+repo:   "adamsanderson/open_gem"
+date:   2015-02-18 17:14:29
+gemurl: http://github.com/adamsanderson/open_gem
+---

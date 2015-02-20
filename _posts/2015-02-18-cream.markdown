@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "cream"
+repo:   "kristianmandrup/cream"
+date:   2015-02-18 17:06:42
+gemurl: http://github.com/kristianmandrup/cream
+---

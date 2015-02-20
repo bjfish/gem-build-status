@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "mandrill"
+repo:   "tatemae-consultancy/mandrill"
+date:   2015-02-18 17:15:41
+gemurl: http://github.com/tatemae-consultancy/mandrill
+---

@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "sprinkle"
+repo:   "sprinkle-tool/sprinkle"
+date:   2015-02-18 17:09:32
+gemurl: https://github.com/sprinkle-tool/sprinkle
+---

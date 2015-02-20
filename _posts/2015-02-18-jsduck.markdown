@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "jsduck"
+repo:   "senchalabs/jsduck"
+date:   2015-02-18 17:17:28
+gemurl: https://github.com/senchalabs/jsduck
+---

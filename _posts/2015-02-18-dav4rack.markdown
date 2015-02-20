@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "dav4rack"
+repo:   "chrisroberts/dav4rack"
+date:   2015-02-18 17:01:00
+gemurl: http://github.com/chrisroberts/dav4rack
+---

@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "beetle"
+repo:   "xing/beetle"
+date:   2015-02-18 16:59:17
+gemurl: http://xing.github.com/beetle/
+---

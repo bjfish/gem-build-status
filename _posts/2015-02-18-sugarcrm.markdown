@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "sugarcrm"
+repo:   "chicks/sugarcrm"
+date:   2015-02-18 17:06:55
+gemurl: http://github.com/chicks/sugarcrm
+---

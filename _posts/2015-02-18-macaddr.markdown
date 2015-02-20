@@ -2,6 +2,6 @@
 layout: post
 title:  "macaddr"
 repo:   "ahoward/macaddr"
-date:   2015-02-18 10:45:01
+date:   2015-02-18 17:28:15
 gemurl: https://github.com/ahoward/macaddr
 ---

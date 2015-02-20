@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "griddler"
+repo:   "thoughtbot/griddler"
+date:   2015-02-18 17:13:22
+gemurl: http://thoughtbot.com
+---

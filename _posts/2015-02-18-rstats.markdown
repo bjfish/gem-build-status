@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "rstats"
+repo:   "jumzies/rstats"
+date:   2015-02-18 17:21:44
+gemurl: http://github.com/jumzies/rstats
+---

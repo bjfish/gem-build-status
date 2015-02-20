@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "qu-redis"
+repo:   "bkeepers/qu"
+date:   2015-02-18 17:13:20
+gemurl: http://github.com/bkeepers/qu
+---

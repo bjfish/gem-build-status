@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "beefcake"
+repo:   "protobuf-ruby/beefcake"
+date:   2015-02-18 17:24:57
+gemurl: https://github.com/protobuf-ruby/beefcake
+---

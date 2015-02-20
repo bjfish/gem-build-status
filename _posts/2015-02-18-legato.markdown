@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "legato"
+repo:   "tpitale/legato"
+date:   2015-02-18 16:57:58
+gemurl: http://github.com/tpitale/legato
+---

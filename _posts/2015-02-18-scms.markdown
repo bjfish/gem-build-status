@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "scms"
+repo:   "cprobert/Static-CMS"
+date:   2015-02-18 17:04:55
+gemurl: http://cprobert.github.io/Static-CMS/
+---

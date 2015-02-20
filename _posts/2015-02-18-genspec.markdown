@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "genspec"
+repo:   "sinisterchipmunk/genspec"
+date:   2015-02-18 17:05:23
+gemurl: http://www.thoughtsincomputation.com
+---

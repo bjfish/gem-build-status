@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "coyote"
+repo:   "imulus/coyote"
+date:   2015-02-18 16:59:47
+gemurl: http://github.com/imulus/coyote
+---

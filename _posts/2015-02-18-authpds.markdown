@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "authpds"
+repo:   "scotdalton/authpds"
+date:   2015-02-18 17:13:22
+gemurl: http://github.com/scotdalton/authpds
+---

@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "prawn-svg"
+repo:   "mogest/prawn-svg"
+date:   2015-02-18 17:18:52
+gemurl: http://github.com/mogest/prawn-svg
+---

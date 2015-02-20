@@ -2,6 +2,6 @@
 layout: post
 title:  "mongo"
 repo:   "mongodb/mongo-ruby-driver"
-date:   2015-02-18 10:45:47
+date:   2015-02-18 17:29:04
 gemurl: http://www.mongodb.org
 ---

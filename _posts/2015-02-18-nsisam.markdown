@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "nsisam"
+repo:   "nsi-iff/nsisam-ruby"
+date:   2015-02-18 17:00:41
+gemurl: http://github.com/nsi-iff/nsisam-ruby
+---

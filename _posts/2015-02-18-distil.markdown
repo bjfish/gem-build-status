@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "distil"
+repo:   "jeffwatkins/distil"
+date:   2015-02-18 17:09:40
+gemurl: http://github.com/jeffwatkins/distil
+---

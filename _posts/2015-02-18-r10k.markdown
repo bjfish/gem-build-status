@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "r10k"
+repo:   "adrienthebo/r10k"
+date:   2015-02-18 16:59:43
+gemurl: http://github.com/adrienthebo/r10k
+---

@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "auditor"
+repo:   "nearinfinity/auditor"
+date:   2015-02-18 17:00:42
+gemurl: http://github.com/nearinfinity/auditor
+---

@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "jsonify"
+repo:   "bsiggelkow/jsonify"
+date:   2015-02-18 17:18:18
+gemurl: http://github.com/bsiggelkow/jsonify
+---

@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "viddl-rb"
+repo:   "rb2k/viddl-rb"
+date:   2015-02-18 17:07:56
+gemurl: https://github.com/rb2k/viddl-rb
+---

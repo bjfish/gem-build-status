@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "rich"
+repo:   "bastiaanterhorst/rich"
+date:   2015-02-18 17:09:18
+gemurl: https://github.com/bastiaanterhorst/rich
+---

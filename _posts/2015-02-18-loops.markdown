@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "loops"
+repo:   "kovyrin/loops"
+date:   2015-02-18 17:04:18
+gemurl: http://github.com/kovyrin/loops
+---

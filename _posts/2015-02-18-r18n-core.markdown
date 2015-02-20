@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "r18n-core"
+repo:   "ai/r18n"
+date:   2015-02-18 17:18:12
+gemurl: https://github.com/ai/r18n
+---

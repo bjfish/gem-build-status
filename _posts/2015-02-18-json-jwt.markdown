@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "json-jwt"
+repo:   "nov/json-jwt"
+date:   2015-02-18 17:05:23
+gemurl: https://github.com/nov/json-jwt
+---

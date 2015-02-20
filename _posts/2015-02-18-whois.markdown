@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "whois"
+repo:   "weppos/whois"
+date:   2015-02-18 17:24:32
+gemurl: http://www.ruby-whois.org/
+---

@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "gpgme"
+repo:   "ueno/ruby-gpgme"
+date:   2015-02-18 17:18:39
+gemurl: http://github.com/ueno/ruby-gpgme
+---

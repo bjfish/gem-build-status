@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "teamocil"
+repo:   "remiprev/teamocil"
+date:   2015-02-18 17:07:07
+gemurl: http://remiprev.github.com/teamocil
+---

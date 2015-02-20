@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "pismo"
+repo:   "peterc/pismo"
+date:   2015-02-18 17:02:31
+gemurl: http://github.com/peterc/pismo
+---

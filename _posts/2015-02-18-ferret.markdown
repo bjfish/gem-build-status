@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "ferret"
+repo:   "jkraemer/ferret"
+date:   2015-02-18 17:16:57
+gemurl: http://github.com/jkraemer/ferret
+---

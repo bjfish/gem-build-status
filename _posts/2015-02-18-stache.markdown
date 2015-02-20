@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "stache"
+repo:   "agoragames/stache"
+date:   2015-02-18 17:02:48
+gemurl: http://github.com/agoragames/stache
+---

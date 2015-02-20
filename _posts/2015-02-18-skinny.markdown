@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "skinny"
+repo:   "sj26/skinny"
+date:   2015-02-18 17:25:33
+gemurl: http://github.com/sj26/skinny
+---

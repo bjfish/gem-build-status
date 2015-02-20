@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "vertica"
+repo:   "sprsquish/vertica"
+date:   2015-02-18 17:15:45
+gemurl: https://github.com/sprsquish/vertica
+---

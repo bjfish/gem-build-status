@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "aggcat"
+repo:   "cloocher/aggcat"
+date:   2015-02-18 17:11:22
+gemurl: https://github.com/cloocher/aggcat
+---

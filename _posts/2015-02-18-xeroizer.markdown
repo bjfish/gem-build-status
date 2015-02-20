@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "xeroizer"
+repo:   "waynerobinson/xeroizer"
+date:   2015-02-18 17:14:32
+gemurl: http://github.com/waynerobinson/xeroizer
+---

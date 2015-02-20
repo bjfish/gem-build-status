@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "pager"
+repo:   "sferik/pager"
+date:   2015-02-18 17:21:11
+gemurl: https://github.com/sferik/pager
+---

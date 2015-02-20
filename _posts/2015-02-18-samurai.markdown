@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "samurai"
+repo:   "FeeFighters/samurai-client-ruby"
+date:   2015-02-18 17:17:22
+gemurl: http://rubygems.org/gems/samurai
+---

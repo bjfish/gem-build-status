@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "hitimes"
+repo:   "copiousfreetime/hitimes"
+date:   2015-02-18 17:21:40
+gemurl: http://github.com/copiousfreetime/hitimes
+---

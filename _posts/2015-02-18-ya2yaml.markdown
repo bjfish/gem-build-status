@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "ya2yaml"
+repo:   "afunai/ya2yaml"
+date:   2015-02-18 17:24:58
+gemurl: http://rubyforge.org/projects/ya2yaml/
+---

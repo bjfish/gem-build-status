@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "dm-devise"
+repo:   "jm81/dm-devise"
+date:   2015-02-18 17:15:01
+gemurl: https://github.com/jm81/dm-devise
+---

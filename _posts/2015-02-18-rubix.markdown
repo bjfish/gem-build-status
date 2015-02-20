@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "rubix"
+repo:   "dhruvbansal/rubix"
+date:   2015-02-18 17:06:09
+gemurl: http://github.com/dhruvbansal/rubix
+---

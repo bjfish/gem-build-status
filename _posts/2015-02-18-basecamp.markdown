@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "basecamp"
+repo:   "anibalcucco/basecamp-wrapper"
+date:   2015-02-18 17:03:39
+gemurl: http://github.com/anibalcucco/basecamp-wrapper
+---

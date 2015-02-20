@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "vanity"
+repo:   "assaf/vanity"
+date:   2015-02-18 17:10:20
+gemurl: http://vanity.labnotes.org
+---

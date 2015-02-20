@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "rhodes"
+repo:   "rhomobile/rhodes"
+date:   2015-02-18 17:21:47
+gemurl: http://www.rhomobile.com
+---

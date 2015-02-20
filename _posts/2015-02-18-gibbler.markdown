@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "gibbler"
+repo:   "delano/gibbler"
+date:   2015-02-18 17:05:25
+gemurl: http://github.com/delano/gibbler
+---

@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "wand"
+repo:   "jnunemaker/wand"
+date:   2015-02-18 17:03:17
+gemurl: http://github.com/jnunemaker/wand
+---

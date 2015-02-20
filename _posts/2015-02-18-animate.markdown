@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "animate"
+repo:   "ericam/compass-animate"
+date:   2015-02-18 17:05:01
+gemurl: https://github.com/ericam/compass-animate
+---

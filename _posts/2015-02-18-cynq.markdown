@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "cynq"
+repo:   "darrenboyd/cynq"
+date:   2015-02-18 17:01:45
+gemurl: https://github.com/darrenboyd/cynq
+---

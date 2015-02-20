@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "weekdays"
+repo:   "mdarby/weekdays"
+date:   2015-02-18 16:59:46
+gemurl: http://github.com/mdarby/weekdays
+---

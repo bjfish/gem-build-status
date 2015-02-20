@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "jspec"
+repo:   "visionmedia/jspec"
+date:   2015-02-18 16:59:59
+gemurl: http://visionmedia.github.com/jspec
+---

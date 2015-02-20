@@ -2,6 +2,6 @@
 layout: post
 title:  "figaro"
 repo:   "laserlemon/figaro"
-date:   2015-02-18 10:43:47
+date:   2015-02-18 17:27:00
 gemurl: https://github.com/laserlemon/figaro
 ---

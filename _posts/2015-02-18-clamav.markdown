@@ -2,6 +2,6 @@
 layout: post
 title:  "clamav"
 repo:   "eagleas/clamav"
-date:   2015-02-18 10:44:47
+date:   2015-02-18 17:28:01
 gemurl: http://github.com/eagleas/clamav
 ---

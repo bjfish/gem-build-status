@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "version"
+repo:   "stouset/version"
+date:   2015-02-18 17:17:52
+gemurl: http://github.com/stouset/version
+---

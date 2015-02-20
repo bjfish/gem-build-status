@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "easy_diff"
+repo:   "Blargel/easy_diff"
+date:   2015-02-18 17:17:15
+gemurl: http://github.com/Blargel/easy_diff
+---

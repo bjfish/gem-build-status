@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "knitkit"
+repo:   "portablemind/compass_agile_enterprise"
+date:   2015-02-18 17:01:05
+gemurl: http://www.truenorthtechnology.com
+---

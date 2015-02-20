@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "fbauth"
+repo:   "ThreeWiseMen/fbauth"
+date:   2015-02-18 17:06:25
+gemurl: http://github.com/ThreeWiseMen/fbauth
+---

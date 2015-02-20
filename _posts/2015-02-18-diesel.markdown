@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "diesel"
+repo:   "thoughtbot/diesel"
+date:   2015-02-18 17:01:04
+gemurl: http://github.com/thoughtbot/diesel
+---

@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "httplog"
+repo:   "trusche/httplog"
+date:   2015-02-18 16:58:38
+gemurl: http://github.com/trusche/httplog
+---

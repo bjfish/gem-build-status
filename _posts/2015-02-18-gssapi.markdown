@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "gssapi"
+repo:   "zenchild/gssapi"
+date:   2015-02-18 17:26:13
+gemurl: http://github.com/zenchild/gssapi
+---

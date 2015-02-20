@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "buddy"
+repo:   "buddybrand/buddy"
+date:   2015-02-18 17:07:29
+gemurl: http://rubygems.org/gems/buddy
+---

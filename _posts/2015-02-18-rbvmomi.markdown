@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "rbvmomi"
+repo:   "vmware/rbvmomi"
+date:   2015-02-18 17:25:15
+gemurl: https://github.com/vmware/rbvmomi
+---

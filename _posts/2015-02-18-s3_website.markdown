@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "s3_website"
+repo:   "laurilehmijoki/s3_website"
+date:   2015-02-18 17:05:26
+gemurl: https://github.com/laurilehmijoki/s3_website
+---

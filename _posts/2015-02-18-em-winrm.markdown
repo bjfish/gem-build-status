@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "em-winrm"
+repo:   "schisamo/em-winrm"
+date:   2015-02-18 17:17:49
+gemurl: http://github.com/schisamo/em-winrm
+---

@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "sys-cpu"
+repo:   "djberg96/sys-cpu"
+date:   2015-02-18 17:16:46
+gemurl: https://github.com/djberg96/sys-cpu
+---

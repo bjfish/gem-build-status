@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "lastfm"
+repo:   "youpy/ruby-lastfm"
+date:   2015-02-18 17:10:04
+gemurl: http://github.com/youpy/ruby-lastfm
+---

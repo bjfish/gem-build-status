@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "idiom"
+repo:   "progressions/idiom"
+date:   2015-02-18 17:00:14
+gemurl: http://github.com/progressions/idiom
+---

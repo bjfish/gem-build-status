@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "whichr"
+repo:   "rogerdpack/which_ruby"
+date:   2015-02-18 17:08:45
+gemurl: http://github.com/rogerdpack/which_ruby
+---

@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "sshkit"
+repo:   "capistrano/sshkit"
+date:   2015-02-18 17:15:51
+gemurl: http://github.com/capistrano/sshkit
+---

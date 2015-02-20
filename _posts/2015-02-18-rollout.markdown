@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "rollout"
+repo:   "jamesgolick/rollout"
+date:   2015-02-18 17:24:41
+gemurl: https://github.com/jamesgolick/rollout
+---

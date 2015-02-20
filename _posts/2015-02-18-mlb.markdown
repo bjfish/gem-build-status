@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "mlb"
+repo:   "sferik/mlb"
+date:   2015-02-18 16:59:31
+gemurl: https://github.com/sferik/mlb
+---

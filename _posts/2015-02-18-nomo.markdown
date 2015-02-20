@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "nomo"
+repo:   "stackd/nomo"
+date:   2015-02-18 17:08:51
+gemurl: https://github.com/stackd/nomo
+---

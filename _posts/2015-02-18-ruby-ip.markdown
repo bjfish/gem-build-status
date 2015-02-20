@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "ruby-ip"
+repo:   "deploy2/ruby-ip"
+date:   2015-02-18 17:15:54
+gemurl: http://github.com/deploy2/ruby-ip
+---

@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "soap4r-ruby1.9"
+repo:   "noeticpenguin/soap4r-noeticpenguin"
+date:   2015-02-18 17:22:51
+gemurl: https://github.com/noeticpenguin/soap4r-noeticpenguin
+---

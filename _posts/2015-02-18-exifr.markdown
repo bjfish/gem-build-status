@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "exifr"
+repo:   "remvee/exifr"
+date:   2015-02-18 17:21:43
+gemurl: http://github.com/remvee/exifr/
+---

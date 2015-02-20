@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "inflecto"
+repo:   "mbj/inflecto"
+date:   2015-02-18 17:15:37
+gemurl: https://github.com/mbj/inflecto
+---

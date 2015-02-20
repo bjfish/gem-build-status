@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "rack-p3p"
+repo:   "hoopla/rack-p3p"
+date:   2015-02-18 16:58:29
+gemurl: http://github.com/hoopla/rack-p3p
+---

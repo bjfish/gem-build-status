@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "em-redis"
+repo:   "libc/em-redis"
+date:   2015-02-18 17:14:37
+gemurl: http://github.com/libc/em-redis
+---

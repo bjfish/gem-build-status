@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "jitai"
+repo:   "kellydunn/jitai"
+date:   2015-02-18 17:03:05
+gemurl: http://github.com/kellydunn/jitai
+---

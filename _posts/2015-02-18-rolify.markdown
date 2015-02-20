@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "rolify"
+repo:   "RolifyCommunity/rolify"
+date:   2015-02-18 17:26:05
+gemurl: https://github.com/RolifyCommunity/rolify
+---

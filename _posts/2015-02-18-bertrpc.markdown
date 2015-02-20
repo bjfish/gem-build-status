@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "bertrpc"
+repo:   "mojombo/bertrpc"
+date:   2015-02-18 17:11:10
+gemurl: http://github.com/mojombo/bertrpc
+---

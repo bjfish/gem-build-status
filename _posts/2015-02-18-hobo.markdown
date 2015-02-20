@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "hobo"
+repo:   "hobo/hobo"
+date:   2015-02-18 17:16:09
+gemurl: http://hobocentral.net
+---

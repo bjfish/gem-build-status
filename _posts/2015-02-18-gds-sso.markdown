@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "gds-sso"
+repo:   "alphagov/gds-sso"
+date:   2015-02-18 17:18:57
+gemurl: https://github.com/alphagov/gds-sso
+---

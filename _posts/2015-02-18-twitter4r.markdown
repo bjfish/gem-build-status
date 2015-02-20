@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "twitter4r"
+repo:   "twitter4r/twitter4r-core"
+date:   2015-02-18 16:58:19
+gemurl: http://twitter4r.rubyforge.org
+---

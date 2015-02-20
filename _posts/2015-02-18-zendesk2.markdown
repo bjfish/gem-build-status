@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "zendesk2"
+repo:   "lanej/zendesk2"
+date:   2015-02-18 16:59:37
+gemurl: http://joshualane.com/zendesk2
+---

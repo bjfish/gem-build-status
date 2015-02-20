@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "ceml"
+repo:   "citizenlogistics/ceml"
+date:   2015-02-18 17:05:06
+gemurl: http://github.com/citizenlogistics/ceml
+---

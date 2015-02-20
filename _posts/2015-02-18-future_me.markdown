@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "future_me"
+repo:   "muflax/fume"
+date:   2015-02-18 17:12:40
+gemurl: http://github.com/muflax/fume
+---

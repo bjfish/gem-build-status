@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "cog"
+repo:   "ktonon/cog"
+date:   2015-02-18 17:05:40
+gemurl: https://github.com/ktonon/cog
+---

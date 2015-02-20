@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "capsum"
+repo:   "sunteya/capsum"
+date:   2015-02-18 17:09:10
+gemurl: http://github.com/sunteya/capsum
+---

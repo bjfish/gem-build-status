@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "api_canon"
+repo:   "westfield/api_canon"
+date:   2015-02-18 17:04:57
+gemurl: http://github.com/westfield/api_canon
+---

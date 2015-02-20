@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "bookshop"
+repo:   "blueheadpublishing/bookshop"
+date:   2015-02-18 17:04:34
+gemurl: http://blueheadpublishing.com/products/bookshop/
+---

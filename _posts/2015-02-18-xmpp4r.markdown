@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "xmpp4r"
+repo:   "xmpp4r/xmpp4r"
+date:   2015-02-18 17:23:15
+gemurl: http://xmpp4r.github.io
+---

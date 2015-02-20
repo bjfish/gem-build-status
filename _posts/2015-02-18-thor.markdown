@@ -2,6 +2,6 @@
 layout: post
 title:  "thor"
 repo:   "erikhuda/thor"
-date:   2015-02-18 10:46:51
+date:   2015-02-18 17:30:10
 gemurl: http://whatisthor.com/
 ---

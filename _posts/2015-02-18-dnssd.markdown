@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "dnssd"
+repo:   "tenderlove/dnssd"
+date:   2015-02-18 17:22:25
+gemurl: http://rubyforge.org/projects/dnssd
+---

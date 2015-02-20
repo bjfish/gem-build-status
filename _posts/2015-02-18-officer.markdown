@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "officer"
+repo:   "chadrem/officer"
+date:   2015-02-18 17:00:35
+gemurl: http://github.com/chadrem/officer
+---

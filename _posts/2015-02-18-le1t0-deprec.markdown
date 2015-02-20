@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "le1t0-deprec"
+repo:   "le1t0/deprec"
+date:   2015-02-18 17:16:26
+gemurl: http://github.com/le1t0/deprec
+---

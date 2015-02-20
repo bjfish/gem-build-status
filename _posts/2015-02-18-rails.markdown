@@ -2,6 +2,6 @@
 layout: post
 title:  "rails"
 repo:   "rails/rails"
-date:   2015-02-18 10:46:47
+date:   2015-02-18 17:30:05
 gemurl: http://www.rubyonrails.org
 ---

@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "kuzushi"
+repo:   "orionhenry/kuzushi"
+date:   2015-02-18 17:10:50
+gemurl: http://github.com/orionhenry/kuzushi
+---

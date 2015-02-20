@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "a_a_n"
+repo:   "kot-begemot/association_as_name"
+date:   2015-02-18 17:03:38
+gemurl: https://github.com/kot-begemot/association_as_name
+---

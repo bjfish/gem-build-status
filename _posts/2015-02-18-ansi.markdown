@@ -2,6 +2,6 @@
 layout: post
 title:  "ansi"
 repo:   "rubyworks/ansi"
-date:   2015-02-18 10:45:34
+date:   2015-02-18 17:28:50
 gemurl: http://rubyworks.github.com/ansi
 ---

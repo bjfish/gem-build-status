@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "ibm_db"
+repo:   "ibmdb/ruby-ibmdb"
+date:   2015-02-18 17:10:21
+gemurl: https://github.com/ibmdb/ruby-ibmdb
+---

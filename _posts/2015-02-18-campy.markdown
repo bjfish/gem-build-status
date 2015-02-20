@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "campy"
+repo:   "fnichol/campy"
+date:   2015-02-18 17:09:36
+gemurl: http://fnichol.github.com/campy/
+---

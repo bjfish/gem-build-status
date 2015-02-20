@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "fixjour"
+repo:   "nakajima/fixjour"
+date:   2015-02-18 17:06:13
+gemurl: http://github.com/nakajima/fixjour
+---

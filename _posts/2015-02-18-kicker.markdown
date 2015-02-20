@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "kicker"
+repo:   "Manfred/kicker"
+date:   2015-02-18 17:13:35
+gemurl: http://github.com/Manfred/kicker
+---

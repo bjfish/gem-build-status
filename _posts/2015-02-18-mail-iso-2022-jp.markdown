@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "mail-iso-2022-jp"
+repo:   "kuroda/mail-iso-2022-jp"
+date:   2015-02-18 17:15:17
+gemurl: https://github.com/kuroda/mail-iso-2022-jp
+---

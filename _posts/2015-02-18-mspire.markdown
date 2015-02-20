@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "mspire"
+repo:   "princelab/mspire"
+date:   2015-02-18 17:12:04
+gemurl: http://github.com/princelab/mspire
+---

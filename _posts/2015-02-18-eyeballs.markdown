@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "eyeballs"
+repo:   "paulca/eyeballs.js"
+date:   2015-02-18 17:08:07
+gemurl: http://www.github.com/paulca/eyeballs.js
+---

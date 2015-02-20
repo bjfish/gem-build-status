@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "rally_api"
+repo:   "RallyTools/RallyRestToolkitForRuby"
+date:   2015-02-18 17:09:25
+gemurl: https://github.com/RallyTools/RallyRestToolkitForRuby
+---

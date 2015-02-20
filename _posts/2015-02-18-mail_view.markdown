@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "mail_view"
+repo:   "37signals/mail_view"
+date:   2015-02-18 17:24:24
+gemurl: https://github.com/37signals/mail_view
+---

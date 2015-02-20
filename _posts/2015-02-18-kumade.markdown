@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "kumade"
+repo:   "gabebw/kumade"
+date:   2015-02-18 17:00:55
+gemurl: http://thoughtbot.com/community/
+---

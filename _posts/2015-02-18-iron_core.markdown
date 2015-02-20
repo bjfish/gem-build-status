@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "iron_core"
+repo:   "iron-io/iron_core_ruby"
+date:   2015-02-18 17:25:32
+gemurl: https://github.com/iron-io/iron_core_ruby
+---

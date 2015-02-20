@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "xupa_emec"
+repo:   "bernardo/xupa_emec"
+date:   2015-02-18 17:08:39
+gemurl: http://github.com/bernardo/xupa_emec
+---

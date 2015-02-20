@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "iobuffer"
+repo:   "tarcieri/iobuffer"
+date:   2015-02-18 17:20:41
+gemurl: https://github.com/tarcieri/iobuffer
+---

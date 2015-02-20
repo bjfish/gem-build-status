@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "spud_cms"
+repo:   "davydotcom/spud_cms"
+date:   2015-02-18 17:08:12
+gemurl: http://www.github.com/davydotcom/spud_cms
+---

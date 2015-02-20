@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "chili"
+repo:   "balvig/chili"
+date:   2015-02-18 17:00:02
+gemurl: http://balvig.github.com/chili/
+---

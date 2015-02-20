@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "tagtical"
+repo:   "Mixbook/tagtical"
+date:   2015-02-18 17:02:17
+gemurl: https://github.com/Mixbook/tagtical
+---

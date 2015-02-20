@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "admix"
+repo:   "mixinternet/mix-rails"
+date:   2015-02-18 17:04:12
+gemurl: https://github.com/mixinternet/mix-rails
+---

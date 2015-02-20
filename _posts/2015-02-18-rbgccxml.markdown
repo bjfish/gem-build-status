@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "rbgccxml"
+repo:   "jasonroelofs/rbgccxml"
+date:   2015-02-18 17:20:41
+gemurl: http://rbplusplus.rubyforge.org/rbgccxml
+---

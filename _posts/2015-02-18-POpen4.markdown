@@ -2,6 +2,6 @@
 layout: post
 title:  "POpen4"
 repo:   "pka/popen4"
-date:   2015-02-18 10:43:51
+date:   2015-02-18 17:27:04
 gemurl: http://github.com/pka/popen4
 ---

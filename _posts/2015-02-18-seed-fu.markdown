@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "seed-fu"
+repo:   "mbleigh/seed-fu"
+date:   2015-02-18 17:25:22
+gemurl: http://github.com/mbleigh/seed-fu
+---

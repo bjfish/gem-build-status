@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "mailman"
+repo:   "titanous/mailman"
+date:   2015-02-18 17:22:46
+gemurl: https://github.com/titanous/mailman
+---

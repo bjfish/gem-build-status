@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "bb-ruby"
+repo:   "cpjolicoeur/bb-ruby"
+date:   2015-02-18 17:00:46
+gemurl: http://cpjolicoeur.github.io/bb-ruby/
+---

@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "killbill"
+repo:   "killbill/killbill-plugin-framework-ruby"
+date:   2015-02-18 16:58:36
+gemurl: http://kill-bill.org
+---

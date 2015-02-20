@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "AoBane"
+repo:   "setminami/AoBane"
+date:   2015-02-18 17:03:25
+gemurl: https://github.com/setminami/AoBane
+---

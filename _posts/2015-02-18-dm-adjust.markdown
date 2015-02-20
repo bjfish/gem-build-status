@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "dm-adjust"
+repo:   "datamapper/dm-adjust"
+date:   2015-02-18 17:06:28
+gemurl: http://github.com/datamapper/dm-adjust
+---

@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "edn"
+repo:   "relevance/edn-ruby"
+date:   2015-02-18 17:23:35
+gemurl: https://github.com/relevance/edn-ruby
+---

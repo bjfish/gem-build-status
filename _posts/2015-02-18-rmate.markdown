@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "rmate"
+repo:   "textmate/rmate"
+date:   2015-02-18 16:58:08
+gemurl: https://github.com/textmate/rmate/
+---

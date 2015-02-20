@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "retries"
+repo:   "ooyala/retries"
+date:   2015-02-18 17:08:47
+gemurl: https://github.com/ooyala/retries
+---

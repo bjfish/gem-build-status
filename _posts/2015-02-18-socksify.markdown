@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "socksify"
+repo:   "astro/socksify-ruby"
+date:   2015-02-18 17:18:05
+gemurl: http://socksify.rubyforge.org/
+---

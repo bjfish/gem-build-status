@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "squeel"
+repo:   "ernie/squeel"
+date:   2015-02-18 17:26:49
+gemurl: https://github.com/ernie/squeel
+---

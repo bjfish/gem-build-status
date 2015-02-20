@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "spud_core"
+repo:   "davydotcom/spud_core_admin"
+date:   2015-02-18 17:11:22
+gemurl: http://github.com/davydotcom/spud_core_admin
+---

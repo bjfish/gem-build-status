@@ -2,6 +2,6 @@
 layout: post
 title:  "akami"
 repo:   "savonrb/akami"
-date:   2015-02-18 10:45:35
+date:   2015-02-18 17:28:51
 gemurl: https://github.com/savonrb/akami
 ---

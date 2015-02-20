@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "hoe-git"
+repo:   "jbarnette/hoe-git"
+date:   2015-02-18 17:12:11
+gemurl: http://github.com/jbarnette/hoe-git
+---

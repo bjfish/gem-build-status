@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "soulmate"
+repo:   "seatgeek/soulmate"
+date:   2015-02-18 17:00:18
+gemurl: http://github.com/seatgeek/soulmate
+---

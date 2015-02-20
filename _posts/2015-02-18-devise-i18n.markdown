@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "devise-i18n"
+repo:   "tigrish/devise-i18n"
+date:   2015-02-18 17:22:53
+gemurl: http://github.com/tigrish/devise-i18n
+---

@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "has_enum"
+repo:   "openteam/has_enum"
+date:   2015-02-18 17:00:21
+gemurl: http://github.com/openteam/has_enum
+---

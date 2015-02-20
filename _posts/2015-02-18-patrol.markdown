@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "patrol"
+repo:   "bcaccinolo/patrol"
+date:   2015-02-18 16:59:23
+gemurl: http://github.com/bcaccinolo/patrol
+---

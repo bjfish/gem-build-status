@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "ey_config"
+repo:   "engineyard/ey_config"
+date:   2015-02-18 17:22:35
+gemurl: http://github.com/engineyard/ey_config
+---

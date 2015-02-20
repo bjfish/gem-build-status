@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "rbnacl"
+repo:   "cryptosphere/rbnacl"
+date:   2015-02-18 17:16:36
+gemurl: https://github.com/cryptosphere/rbnacl
+---

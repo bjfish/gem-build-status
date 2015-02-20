@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "csd"
+repo:   "csd/csd"
+date:   2015-02-18 17:12:36
+gemurl: http://github.com/csd/csd
+---

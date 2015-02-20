@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "jpmobile"
+repo:   "jpmobile/jpmobile"
+date:   2015-02-18 17:20:44
+gemurl: http://jpmobile-rails.org
+---

@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "hooker"
+repo:   "dekellum/hooker"
+date:   2015-02-18 17:24:13
+gemurl: http://github.com/dekellum/hooker
+---

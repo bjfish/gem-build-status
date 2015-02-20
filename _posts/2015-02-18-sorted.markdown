@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "sorted"
+repo:   "mynameisrufus/sorted"
+date:   2015-02-18 16:58:43
+gemurl: http://rubygems.org/gems/sorted
+---

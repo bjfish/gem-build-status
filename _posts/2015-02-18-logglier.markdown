@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "logglier"
+repo:   "freeformz/logglier"
+date:   2015-02-18 17:15:14
+gemurl: http://github.com/freeformz/logglier
+---

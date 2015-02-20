@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "mail_form"
+repo:   "plataformatec/mail_form"
+date:   2015-02-18 17:19:46
+gemurl: https://github.com/plataformatec/mail_form
+---

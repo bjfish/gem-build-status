@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "okami"
+repo:   "Aerotune/Okami"
+date:   2015-02-18 17:00:09
+gemurl: https://github.com/Aerotune/Okami
+---

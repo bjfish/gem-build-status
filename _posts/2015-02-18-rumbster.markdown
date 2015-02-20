@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "rumbster"
+repo:   "aesterline/rumbster"
+date:   2015-02-18 17:18:54
+gemurl: http://github.com/aesterline/rumbster
+---

@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "myway"
+repo:   "mftaher/myway"
+date:   2015-02-18 17:07:45
+gemurl: http://github.com/mftaher/myway
+---

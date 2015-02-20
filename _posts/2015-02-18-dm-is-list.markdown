@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "dm-is-list"
+repo:   "datamapper/dm-is-list"
+date:   2015-02-18 17:00:25
+gemurl: http://github.com/datamapper/dm-is-list
+---

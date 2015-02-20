@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "minigit"
+repo:   "3ofcoins/minigit"
+date:   2015-02-18 17:17:06
+gemurl: https://github.com/3ofcoins/minigit
+---

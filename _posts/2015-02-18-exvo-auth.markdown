@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "exvo-auth"
+repo:   "Exvo/Auth"
+date:   2015-02-18 17:15:26
+gemurl: https://github.com/Exvo/Auth
+---

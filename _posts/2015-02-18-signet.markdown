@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "signet"
+repo:   "google/signet"
+date:   2015-02-18 17:26:47
+gemurl: https://github.com/google/signet/
+---

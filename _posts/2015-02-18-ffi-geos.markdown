@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "ffi-geos"
+repo:   "dark-panda/ffi-geos"
+date:   2015-02-18 17:04:03
+gemurl: http://github.com/dark-panda/ffi-geos
+---

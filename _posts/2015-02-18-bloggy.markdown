@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "bloggy"
+repo:   "zbruhnke/bloggy"
+date:   2015-02-18 16:59:29
+gemurl: http://github.com/zbruhnke/bloggy
+---

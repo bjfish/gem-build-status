@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "rb-notifu"
+repo:   "stereobooster/rb-notifu"
+date:   2015-02-18 17:12:02
+gemurl: http://github.com/stereobooster/rb-notifu
+---

@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "rfc822"
+repo:   "saepia/rfc822"
+date:   2015-02-18 17:16:35
+gemurl: http://github.com/saepia/rfc822
+---

@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "gmp"
+repo:   "srawlins/gmp"
+date:   2015-02-18 16:59:58
+gemurl: http://github.com/srawlins/gmp
+---

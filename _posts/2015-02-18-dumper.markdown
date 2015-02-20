@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "dumper"
+repo:   "kenn/dumper"
+date:   2015-02-18 17:10:56
+gemurl: https://github.com/kenn/dumper
+---

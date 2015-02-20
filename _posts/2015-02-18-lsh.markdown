@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "lsh"
+repo:   "bbcrd/ruby-lsh"
+date:   2015-02-18 17:04:52
+gemurl: https://github.com/bbcrd/ruby-lsh
+---

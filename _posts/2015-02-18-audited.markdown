@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "audited"
+repo:   "collectiveidea/audited"
+date:   2015-02-18 17:25:53
+gemurl: https://github.com/collectiveidea/audited
+---

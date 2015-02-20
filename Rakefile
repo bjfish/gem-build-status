@@ -12,7 +12,7 @@ task :process do
   # Output the data
   puts "Hello"
   data = CSV.read("report_data.csv")
-  limit = 500
+  limit = 5000
   overrides = { 
      "thor" => {  :repo => "erikhuda/thor"  } # links in rubygems redirected  
   }
@@ -60,7 +60,7 @@ def parse_info( info )
       if uri.end_with?("/")
         uri[uri.size - 1] = ''
       end
-      if uri.include?("/")
+      if uri.include?("/") && uri.count("/") == 1
         return uri
       end
   end
@@ -70,7 +70,7 @@ def parse_info( info )
       if uri.end_with?("/")
         uri[uri.size - 1] = ''
       end
-      if uri.include?("/")
+      if uri.include?("/") && uri.count("/") == 1
         return uri
       end
   end
@@ -78,8 +78,13 @@ def parse_info( info )
 end
 
 def parse_gh_uri( url )
-   uri = URI( url )
-   path = uri.path
-   path[0] = ''
+   path = ""
+   begin
+     uri = URI( url )
+     path = uri.path
+     path[0] = ''
+   rescue
+     path = ""
+   end
    path
 end

@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "barber"
+repo:   "tchak/barber"
+date:   2015-02-18 17:25:37
+gemurl: https://github.com/tchak/barber
+---

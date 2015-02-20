@@ -2,6 +2,6 @@
 layout: post
 title:  "puppet"
 repo:   "puppetlabs/puppet"
-date:   2015-02-18 10:44:51
+date:   2015-02-18 17:28:05
 gemurl: https://github.com/puppetlabs/puppet
 ---

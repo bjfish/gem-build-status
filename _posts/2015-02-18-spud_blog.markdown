@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "spud_blog"
+repo:   "davydotcom/spud_blog"
+date:   2015-02-18 17:05:12
+gemurl: http://github.com/davydotcom/spud_blog
+---

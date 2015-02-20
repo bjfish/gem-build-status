@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "rails_xss"
+repo:   "joloudov/rails_xss"
+date:   2015-02-18 17:07:26
+gemurl: http://github.com/joloudov/rails_xss
+---

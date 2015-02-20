@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "appjam"
+repo:   "eiffelqiu/appjam"
+date:   2015-02-18 17:01:52
+gemurl: http://github.com/eiffelqiu/appjam
+---

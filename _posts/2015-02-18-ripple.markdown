@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "ripple"
+repo:   "basho/ripple"
+date:   2015-02-18 17:16:06
+gemurl: http://seancribbs.github.com/ripple
+---

@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "gitrb"
+repo:   "minad/gitrb"
+date:   2015-02-18 17:00:43
+gemurl: https://github.com/minad/gitrb
+---

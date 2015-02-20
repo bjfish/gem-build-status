@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "suitcase"
+repo:   "thoughtfusion/suitcase"
+date:   2015-02-18 17:03:35
+gemurl: http://github.com/thoughtfusion/suitcase
+---

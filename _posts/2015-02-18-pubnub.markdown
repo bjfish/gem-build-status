@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "pubnub"
+repo:   "pubnub/ruby"
+date:   2015-02-18 17:18:29
+gemurl: http://github.com/pubnub/ruby
+---

@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "oa-basic"
+repo:   "intridea/omniauth"
+date:   2015-02-18 17:14:33
+gemurl: http://github.com/intridea/omniauth
+---

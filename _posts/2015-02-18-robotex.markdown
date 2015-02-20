@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "robotex"
+repo:   "chriskite/robotex"
+date:   2015-02-18 17:23:50
+gemurl: http://www.github.com/chriskite/robotex
+---

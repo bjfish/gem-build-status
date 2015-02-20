@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "kindlerb"
+repo:   "danchoi/kindlerb"
+date:   2015-02-18 17:25:37
+gemurl: http://github.com/danchoi/kindlerb
+---

@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "Capcode"
+repo:   "glejeune/Capcode"
+date:   2015-02-18 17:05:46
+gemurl: http://algorithmique.net
+---

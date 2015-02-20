@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "rfc-822"
+repo:   "dim/rfc-822"
+date:   2015-02-18 17:07:29
+gemurl: http://github.com/dim/rfc-822
+---

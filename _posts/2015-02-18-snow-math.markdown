@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "snow-math"
+repo:   "nilium/ruby-snowmath"
+date:   2015-02-18 16:59:52
+gemurl: https://github.com/nilium/ruby-snowmath
+---

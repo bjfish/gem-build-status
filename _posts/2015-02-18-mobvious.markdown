@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "mobvious"
+repo:   "jistr/mobvious"
+date:   2015-02-18 17:13:15
+gemurl: http://github.com/jistr/mobvious
+---

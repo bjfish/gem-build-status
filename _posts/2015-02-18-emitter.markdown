@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "emitter"
+repo:   "brighterplanet/emitter"
+date:   2015-02-18 17:12:46
+gemurl: https://github.com/brighterplanet/emitter
+---

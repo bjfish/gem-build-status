@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "ooor"
+repo:   "akretion/ooor"
+date:   2015-02-18 17:08:36
+gemurl: http://github.com/akretion/ooor
+---

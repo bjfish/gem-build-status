@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "vtiger"
+repo:   "semdinsp/vtiger-ruby-webservices"
+date:   2015-02-18 17:24:08
+gemurl: http://github.com/semdinsp/vtiger-ruby-webservices
+---

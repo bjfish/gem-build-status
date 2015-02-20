@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "rdf-xsd"
+repo:   "ruby-rdf/rdf-xsd"
+date:   2015-02-18 17:17:47
+gemurl: http://ruby-rdf.github.com/rdf-xsd
+---

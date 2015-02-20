@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "churn"
+repo:   "danmayer/churn"
+date:   2015-02-18 17:23:41
+gemurl: http://github.com/danmayer/churn
+---

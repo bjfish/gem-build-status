@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "rubocop"
+repo:   "bbatsov/rubocop"
+date:   2015-02-18 17:25:31
+gemurl: http://github.com/bbatsov/rubocop
+---

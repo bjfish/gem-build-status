@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "hooks"
+repo:   "apotonick/hooks"
+date:   2015-02-18 17:24:08
+gemurl: http://nicksda.apotomo.de/2010/09/hooks-and-callbacks-for-ruby-but-simple/
+---

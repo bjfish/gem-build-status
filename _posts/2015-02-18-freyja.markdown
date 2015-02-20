@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "freyja"
+repo:   "spiridonov/freyja"
+date:   2015-02-18 17:21:15
+gemurl: https://github.com/spiridonov/freyja
+---

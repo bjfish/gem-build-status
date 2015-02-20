@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "mutant"
+repo:   "mbj/mutant"
+date:   2015-02-18 17:12:33
+gemurl: https://github.com/mbj/mutant
+---

@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "stud"
+repo:   "jordansissel/ruby-stud"
+date:   2015-02-18 17:16:38
+gemurl: https://github.com/jordansissel/ruby-stud
+---

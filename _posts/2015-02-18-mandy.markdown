@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "mandy"
+repo:   "forward/mandy"
+date:   2015-02-18 17:14:15
+gemurl: http://github.com/forward/mandy
+---

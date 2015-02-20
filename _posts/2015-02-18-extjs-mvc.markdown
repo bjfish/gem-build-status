@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "extjs-mvc"
+repo:   "extjs/mvc"
+date:   2015-02-18 16:59:26
+gemurl: http://github.com/extjs/mvc
+---

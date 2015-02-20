@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "amatch"
+repo:   "flori/amatch"
+date:   2015-02-18 17:23:32
+gemurl: http://github.com/flori/amatch
+---

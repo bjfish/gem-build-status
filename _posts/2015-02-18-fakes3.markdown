@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "fakes3"
+repo:   "jubos/fake-s3"
+date:   2015-02-18 17:14:46
+gemurl: https://github.com/jubos/fake-s3
+---

@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "aspector"
+repo:   "gcao/aspector"
+date:   2015-02-18 17:01:14
+gemurl: http://github.com/gcao/aspector
+---

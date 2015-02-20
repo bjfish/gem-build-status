@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "fancy_irb"
+repo:   "janlelis/fancy_irb"
+date:   2015-02-18 17:07:59
+gemurl: http://github.com/janlelis/fancy_irb
+---

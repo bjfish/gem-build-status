@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "rturk"
+repo:   "mdp/rturk"
+date:   2015-02-18 17:07:58
+gemurl: http://github.com/mdp/rturk
+---

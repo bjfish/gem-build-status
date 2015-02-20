@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "daddy"
+repo:   "ichylinux/daddy"
+date:   2015-02-18 17:09:00
+gemurl: https://github.com/ichylinux/daddy
+---

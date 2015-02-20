@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "gir_ffi"
+repo:   "mvz/ruby-gir-ffi"
+date:   2015-02-18 17:08:13
+gemurl: http://www.github.com/mvz/ruby-gir-ffi
+---

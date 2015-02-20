@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "scrappy"
+repo:   "josei/scrappy"
+date:   2015-02-18 17:05:14
+gemurl: http://github.com/josei/scrappy
+---

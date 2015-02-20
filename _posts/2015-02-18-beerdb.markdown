@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "beerdb"
+repo:   "beerkit/beer.db.ruby"
+date:   2015-02-18 17:08:49
+gemurl: https://github.com/beerkit/beer.db.ruby
+---

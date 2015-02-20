@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "fcgi"
+repo:   "alphallc/ruby-fcgi-ng"
+date:   2015-02-18 17:08:27
+gemurl: http://github.com/alphallc/ruby-fcgi-ng
+---

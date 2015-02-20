@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "blogit"
+repo:   "KatanaCode/blogit.git"
+date:   2015-02-18 17:08:12
+gemurl: http://bodacious.github.com/blogit/
+---

@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "nanoc3"
+repo:   "ddfreyne/nanoc"
+date:   2015-02-18 17:02:08
+gemurl: http://nanoc.stoneship.org/
+---
