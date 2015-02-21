@@ -14,7 +14,8 @@ task :process do
   data = CSV.read("report_data.csv")
   limit = 5000
   overrides = { 
-     "thor" => {  :repo => "erikhuda/thor"  } # links in rubygems redirected  
+     "thor" => {  :repo => "erikhuda/thor"  }, # links in rubygems redirected  
+     "builder" => {  :repo => "bjfish/builder"  } # can't update main repo build
   }
   if limit
     data = data.first(limit)
